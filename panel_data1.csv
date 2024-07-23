@@ -1,0 +1,953 @@
+"ID","ESTU","PROV","date","year_month","sex","age_group","sector_eu","sector_eu_without","education","indep","ideology","identity","income","work_sit_fact","PESO"
+"1_1",3113,8,2015-09-30,"2015-09",2,"60-64","Non-tradable sectors",NA,2,1,3,5,NA,"Retired",NA
+"1_1",3191,8,2017-10-02,"2017-10",2,"60-64","Non-tradable sectors",NA,2,0,3,4,7,"Retired",NA
+"1_1",3202,8,2017-12-28,"2017-12",2,"60-64","Non-tradable sectors",NA,2,NA,NA,2,NA,"Retired",1.8325
+"1_1",3226,8,2018-10-01,"2018-10",2,"60-64","Non-tradable sectors",NA,2,0,3,3,3,"Retired",NA
+"1_2",3113,8,2015-09-30,"2015-09",2,"60-64","Non-tradable sectors",NA,2,0,1,3,5,NA,NA
+"1_2",3191,8,2017-10-02,"2017-10",2,"60-64","Non-tradable sectors",NA,2,0,3,5,NA,"Currently working",NA
+"1_2",3202,8,2017-12-28,"2017-12",2,"60-64","Non-tradable sectors",NA,2,1,5,4,NA,"Currently working",1.8325
+"1_2",3226,8,2018-10-01,"2018-10",2,"60-64","Non-tradable sectors",NA,2,0,4,3,NA,"Currently working",NA
+"100_1",3113,8,2015-09-30,"2015-09",1,"80+","Non-tradable sectors",NA,1,0,5,3,5,"Retired",NA
+"100_1",3191,8,2017-10-02,"2017-10",1,"80+","Non-tradable sectors",NA,1,0,7,2,NA,"Retired",NA
+"100_1",3202,8,2017-12-28,"2017-12",1,"80+","Non-tradable sectors",NA,1,0,7,1,4,"Retired",1.8325
+"100_1",3226,8,2018-10-01,"2018-10",1,"80+","Non-tradable sectors",NA,1,NA,3,3,4,"Retired",NA
+"101_1",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,2,0,5,3,5,"Currently working",NA
+"101_1",3191,8,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,2,NA,5,5,NA,"Currently working",NA
+"101_1",3202,8,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,2,1,4,5,NA,"Currently working",1.8325
+"101_1",3226,43,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,2,NA,NA,3,NA,"Unemployed",NA
+"103_1",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,4,1,NA,3,8,"Currently working",NA
+"103_1",3191,8,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,4,NA,9,3,NA,"Unemployed",NA
+"103_1",3202,8,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,4,0,3,3,7,"Currently working",1.8325
+"103_1",3226,8,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,4,NA,5,3,6,"Currently working",NA
+"103_2",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,4,NA,5,3,4,"Unemployed",NA
+"103_2",3191,8,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,4,NA,4,4,NA,"Currently working",NA
+"103_2",3202,8,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,4,1,3,4,6,"Currently working",1.8325
+"103_2",3226,8,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,4,0,3,4,NA,"Currently working",NA
+"103_3",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,4,NA,3,3,NA,"Currently working",NA
+"103_3",3191,43,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,4,0,5,3,8,"Currently working",NA
+"103_3",3202,8,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,4,1,4,4,7,"Unemployed",1.8325
+"103_3",3226,8,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,4,0,6,3,6,"Currently working",NA
+"104_1",3113,8,2015-09-30,"2015-09",1,"30-34","Non-tradable sectors",NA,4,1,1,5,4,"Currently working",NA
+"104_1",3191,8,2017-10-02,"2017-10",1,"30-34","Non-tradable sectors",NA,4,NA,3,4,6,"Currently working",NA
+"104_1",3202,8,2017-12-28,"2017-12",1,"30-34","Non-tradable sectors",NA,4,1,4,3,NA,"Currently working",1.8325
+"104_1",3226,8,2018-10-01,"2018-10",1,"30-34","Non-tradable sectors",NA,4,NA,NA,NA,3,"Unemployed",NA
+"105_1",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,5,0,5,3,NA,"Currently working",NA
+"105_1",3191,8,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,5,0,5,1,NA,"Currently working",NA
+"105_1",3202,8,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,5,1,3,4,7,"Currently working",1.8325
+"105_1",3226,8,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,5,1,1,5,8,"Currently working",NA
+"105_2",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,5,1,1,NA,6,"Currently working",NA
+"105_2",3191,25,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,5,1,3,4,9,"Currently working",NA
+"105_2",3202,8,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,5,1,6,5,6,"Currently working",1.8325
+"105_2",3226,8,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,5,0,3,NA,NA,"Currently working",NA
+"105_3",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,5,1,4,4,NA,"Currently working",NA
+"105_3",3191,43,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,5,NA,4,5,7,"Currently working",NA
+"105_3",3202,8,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,5,0,1,3,8,"Currently working",1.8325
+"105_3",3226,8,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,5,NA,3,5,NA,"Currently working",NA
+"106_1",3113,8,2015-09-30,"2015-09",1,"30-34","Non-tradable sectors",NA,5,0,2,3,10,"Currently working",NA
+"106_1",3191,17,2017-10-02,"2017-10",1,"30-34","Non-tradable sectors",NA,5,0,1,5,7,"Currently working",NA
+"106_1",3202,8,2017-12-28,"2017-12",1,"30-34","Non-tradable sectors",NA,5,0,3,1,NA,"Currently working",1.8325
+"106_1",3226,8,2018-10-01,"2018-10",1,"30-34","Non-tradable sectors",NA,5,1,1,3,7,"Currently working",NA
+"106_2",3113,8,2015-09-30,"2015-09",1,"30-34","Non-tradable sectors",NA,5,1,2,5,9,"Currently working",NA
+"106_2",3191,25,2017-10-02,"2017-10",1,"30-34","Non-tradable sectors",NA,5,1,2,4,10,"Currently working",NA
+"106_2",3202,8,2017-12-28,"2017-12",1,"30-34","Non-tradable sectors",NA,5,0,4,4,9,"Currently working",1.8325
+"106_2",3226,25,2018-10-01,"2018-10",1,"30-34","Non-tradable sectors",NA,5,1,5,4,6,"Currently working",NA
+"107_1",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,3,0,8,2,NA,"Currently working",NA
+"107_1",3191,8,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,3,0,7,1,NA,"Currently working",NA
+"107_1",3202,8,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,3,1,3,5,9,"Currently working",1.8325
+"107_1",3226,8,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,3,NA,4,3,NA,"Currently working",NA
+"107_2",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,3,0,1,1,NA,"Currently working",NA
+"107_2",3191,8,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,3,0,3,4,NA,"Currently working",NA
+"107_2",3202,8,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,3,0,2,4,NA,"Currently working",1.8325
+"107_2",3226,8,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,3,0,5,3,NA,"Currently working",NA
+"107_3",3113,8,2015-09-30,"2015-09",2,"30-34","Non-tradable sectors",NA,3,NA,3,3,NA,"Currently working",NA
+"107_3",3191,43,2017-10-02,"2017-10",2,"30-34","Non-tradable sectors",NA,3,NA,2,3,NA,"Currently working",NA
+"107_3",3202,17,2017-12-28,"2017-12",2,"30-34","Non-tradable sectors",NA,3,NA,3,3,7,"Currently working",0.47976
+"107_3",3226,8,2018-10-01,"2018-10",2,"30-34","Non-tradable sectors",NA,3,0,2,4,NA,"Currently working",NA
+"11_1",3113,8,2015-09-30,"2015-09",2,"25-29","Non-tradable sectors",NA,2,1,3,5,6,"Currently working",NA
+"11_1",3191,8,2017-10-02,"2017-10",2,"25-29","Non-tradable sectors",NA,2,0,5,3,NA,"Currently working",NA
+"11_1",3202,8,2017-12-28,"2017-12",2,"25-29","Non-tradable sectors",NA,2,0,5,3,NA,"Unemployed",1.8325
+"11_1",3226,8,2018-10-01,"2018-10",2,"25-29","Non-tradable sectors",NA,2,NA,NA,3,1,"Unemployed",NA
+"111_1",3113,8,2015-09-30,"2015-09",2,"75-79","Non-tradable sectors",NA,2,NA,6,2,7,"Retired",NA
+"111_1",3191,8,2017-10-02,"2017-10",2,"75-79","Non-tradable sectors",NA,2,1,5,5,5,"Retired",NA
+"111_1",3202,17,2017-12-28,"2017-12",2,"75-79","Non-tradable sectors",NA,2,1,6,4,5,"Retired",0.47976
+"111_1",3226,17,2018-10-01,"2018-10",2,"75-79","Non-tradable sectors",NA,2,NA,6,2,1,"Retired",NA
+"119_1",3113,8,2015-09-30,"2015-09",2,"75-79","Non-tradable sectors",NA,1,0,6,1,5,"Retired",NA
+"119_1",3191,8,2017-10-02,"2017-10",2,"75-79","Non-tradable sectors",NA,1,1,5,4,7,"Retired",NA
+"119_1",3202,8,2017-12-28,"2017-12",2,"75-79","Non-tradable sectors",NA,1,1,5,4,5,"Retired",1.8325
+"119_1",3226,8,2018-10-01,"2018-10",2,"75-79","Non-tradable sectors",NA,1,1,2,5,NA,NA,NA
+"119_2",3113,8,2015-09-30,"2015-09",2,"75-79","Non-tradable sectors",NA,1,0,3,1,5,NA,NA
+"119_2",3191,8,2017-10-02,"2017-10",2,"75-79","Non-tradable sectors",NA,1,0,3,3,NA,"Retired",NA
+"119_2",3202,8,2017-12-28,"2017-12",2,"75-79","Non-tradable sectors",NA,1,0,7,3,6,"Retired",1.8325
+"119_2",3226,8,2018-10-01,"2018-10",2,"75-79","Non-tradable sectors",NA,1,NA,NA,3,NA,"Retired",NA
+"12_1",3113,8,2015-09-30,"2015-09",1,"25-29","Non-tradable sectors",NA,2,0,4,3,8,"Currently working",NA
+"12_1",3191,8,2017-10-02,"2017-10",1,"25-29","Non-tradable sectors",NA,2,0,3,4,7,"Currently working",NA
+"12_1",3202,8,2017-12-28,"2017-12",1,"25-29","Non-tradable sectors",NA,2,1,3,5,NA,"Currently working",1.8325
+"12_1",3226,8,2018-10-01,"2018-10",1,"25-29","Non-tradable sectors",NA,2,NA,NA,NA,NA,"Currently working",NA
+"120_1",3113,8,2015-09-30,"2015-09",1,"75-79","Non-tradable sectors",NA,1,1,5,4,NA,"Retired",NA
+"120_1",3191,8,2017-10-02,"2017-10",1,"75-79","Non-tradable sectors",NA,1,NA,NA,3,5,"Retired",NA
+"120_1",3202,8,2017-12-28,"2017-12",1,"75-79","Non-tradable sectors",NA,1,0,9,1,4,"Retired",1.8325
+"120_1",3226,8,2018-10-01,"2018-10",1,"75-79","Non-tradable sectors",NA,1,0,3,4,NA,"Retired",NA
+"127_1",3113,43,2015-09-30,"2015-09",2,"70-74","Non-tradable sectors",NA,3,NA,6,4,5,"Retired",NA
+"127_1",3191,43,2017-10-02,"2017-10",2,"70-74","Non-tradable sectors",NA,3,1,6,4,4,"Retired",NA
+"127_1",3202,43,2017-12-28,"2017-12",2,"70-74","Non-tradable sectors",NA,3,NA,NA,5,NA,"Retired",0.52837
+"127_1",3226,8,2018-10-01,"2018-10",2,"70-74","Non-tradable sectors",NA,3,0,NA,3,NA,"Retired",NA
+"128_1",3113,43,2015-09-30,"2015-09",1,"70-74","Non-tradable sectors",NA,3,1,NA,5,5,"Retired",NA
+"128_1",3191,8,2017-10-02,"2017-10",1,"70-74","Non-tradable sectors",NA,3,1,6,5,5,"Retired",NA
+"128_1",3202,8,2017-12-28,"2017-12",1,"70-74","Non-tradable sectors",NA,3,1,5,5,NA,"Retired",1.8325
+"128_1",3226,8,2018-10-01,"2018-10",1,"70-74","Non-tradable sectors",NA,3,1,5,5,7,"Retired",NA
+"129_1",3113,8,2015-09-30,"2015-09",2,"70-74","Non-tradable sectors",NA,1,1,5,4,NA,"Retired",NA
+"129_1",3191,43,2017-10-02,"2017-10",2,"70-74","Non-tradable sectors",NA,1,0,4,1,NA,NA,NA
+"129_1",3202,8,2017-12-28,"2017-12",2,"70-74","Non-tradable sectors",NA,1,1,4,4,NA,"Retired",1.8325
+"129_1",3226,8,2018-10-01,"2018-10",2,"70-74","Non-tradable sectors",NA,1,NA,4,4,4,"Retired",NA
+"13_1",3113,8,2015-09-30,"2015-09",2,"25-29","Non-tradable sectors",NA,4,0,5,3,7,"Currently working",NA
+"13_1",3191,8,2017-10-02,"2017-10",2,"25-29","Non-tradable sectors",NA,4,NA,NA,5,3,"Currently working",NA
+"13_1",3202,8,2017-12-28,"2017-12",2,"25-29","Non-tradable sectors",NA,4,0,5,3,NA,"Currently working",1.8325
+"13_1",3226,8,2018-10-01,"2018-10",2,"25-29","Non-tradable sectors",NA,4,NA,NA,3,NA,"Currently working",NA
+"13_2",3113,8,2015-09-30,"2015-09",2,"25-29","Non-tradable sectors",NA,4,0,1,2,NA,"Currently working",NA
+"13_2",3191,17,2017-10-02,"2017-10",2,"25-29","Non-tradable sectors",NA,4,NA,NA,NA,5,"Currently working",NA
+"13_2",3202,8,2017-12-28,"2017-12",2,"25-29","Non-tradable sectors",NA,4,1,2,3,NA,"Currently working",1.8325
+"13_2",3226,8,2018-10-01,"2018-10",2,"25-29","Non-tradable sectors",NA,4,1,1,5,7,"Currently working",NA
+"130_1",3113,8,2015-09-30,"2015-09",1,"70-74","Non-tradable sectors",NA,1,0,6,2,7,"Retired",NA
+"130_1",3191,8,2017-10-02,"2017-10",1,"70-74","Non-tradable sectors",NA,1,NA,5,5,5,"Retired",NA
+"130_1",3202,8,2017-12-28,"2017-12",1,"70-74","Non-tradable sectors",NA,1,0,3,1,6,"Retired",1.8325
+"130_1",3226,8,2018-10-01,"2018-10",1,"70-74","Non-tradable sectors",NA,1,0,5,NA,NA,"Retired",NA
+"130_2",3113,8,2015-09-30,"2015-09",1,"70-74","Non-tradable sectors",NA,1,NA,NA,1,4,"Retired",NA
+"130_2",3191,8,2017-10-02,"2017-10",1,"70-74","Non-tradable sectors",NA,1,0,NA,2,NA,"Retired",NA
+"130_2",3202,8,2017-12-28,"2017-12",1,"70-74","Non-tradable sectors",NA,1,0,7,3,4,"Retired",1.8325
+"130_2",3226,8,2018-10-01,"2018-10",1,"70-74","Non-tradable sectors",NA,1,NA,7,3,4,"Retired",NA
+"130_3",3113,8,2015-09-30,"2015-09",1,"70-74","Non-tradable sectors",NA,1,0,3,1,6,"Retired",NA
+"130_3",3191,8,2017-10-02,"2017-10",1,"70-74","Non-tradable sectors",NA,1,0,8,2,NA,"Retired",NA
+"130_3",3202,8,2017-12-28,"2017-12",1,"70-74","Non-tradable sectors",NA,1,1,7,4,4,"Retired",1.8325
+"130_3",3226,8,2018-10-01,"2018-10",1,"70-74","Non-tradable sectors",NA,1,NA,NA,3,NA,"Retired",NA
+"130_4",3113,8,2015-09-30,"2015-09",1,"70-74","Non-tradable sectors",NA,1,0,3,1,5,"Retired",NA
+"130_4",3191,8,2017-10-02,"2017-10",1,"70-74","Non-tradable sectors",NA,1,NA,5,3,NA,"Retired",NA
+"130_4",3202,8,2017-12-28,"2017-12",1,"70-74","Non-tradable sectors",NA,1,1,4,5,NA,"Retired",1.8325
+"130_4",3226,8,2018-10-01,"2018-10",1,"70-74","Non-tradable sectors",NA,1,0,7,3,NA,"Retired",NA
+"130_5",3113,8,2015-09-30,"2015-09",1,"70-74","Non-tradable sectors",NA,1,0,5,3,NA,"Retired",NA
+"130_5",3191,8,2017-10-02,"2017-10",1,"70-74","Non-tradable sectors",NA,1,0,5,2,NA,"Retired",NA
+"130_5",3202,8,2017-12-28,"2017-12",1,"70-74","Non-tradable sectors",NA,1,0,7,2,6,"Retired",1.8325
+"130_5",3226,8,2018-10-01,"2018-10",1,"70-74","Non-tradable sectors",NA,1,0,4,3,3,"Retired",NA
+"14_1",3113,8,2015-09-30,"2015-09",1,"25-29","Non-tradable sectors",NA,4,0,5,3,6,"Currently working",NA
+"14_1",3191,8,2017-10-02,"2017-10",1,"25-29","Non-tradable sectors",NA,4,NA,2,NA,6,"Currently working",NA
+"14_1",3202,8,2017-12-28,"2017-12",1,"25-29","Non-tradable sectors",NA,4,NA,5,NA,7,"Unemployed",1.8325
+"14_1",3226,8,2018-10-01,"2018-10",1,"25-29","Non-tradable sectors",NA,4,0,5,4,6,"Currently working",NA
+"14_2",3113,8,2015-09-30,"2015-09",1,"25-29","Non-tradable sectors",NA,4,1,2,5,NA,"Currently working",NA
+"14_2",3191,8,2017-10-02,"2017-10",1,"25-29","Non-tradable sectors",NA,4,NA,5,3,NA,"Currently working",NA
+"14_2",3202,8,2017-12-28,"2017-12",1,"25-29","Non-tradable sectors",NA,4,NA,5,3,7,"Currently working",1.8325
+"14_2",3226,8,2018-10-01,"2018-10",1,"25-29","Non-tradable sectors",NA,4,0,NA,3,NA,NA,NA
+"14_3",3113,8,2015-09-30,"2015-09",1,"25-29","Non-tradable sectors",NA,4,1,NA,3,NA,"Currently working",NA
+"14_3",3191,17,2017-10-02,"2017-10",1,"25-29","Non-tradable sectors",NA,4,0,1,5,7,"Currently working",NA
+"14_3",3202,8,2017-12-28,"2017-12",1,"25-29","Non-tradable sectors",NA,4,0,7,3,NA,"Currently working",1.8325
+"14_3",3226,8,2018-10-01,"2018-10",1,"25-29","Non-tradable sectors",NA,4,0,5,1,4,"Currently working",NA
+"146_1",3113,25,2015-09-30,"2015-09",1,"25-29","Export-oriented sectors","Export-oriented sectors",5,1,4,4,NA,"Currently working",NA
+"146_1",3191,8,2017-10-02,"2017-10",1,"25-29","Export-oriented sectors","Export-oriented sectors",5,NA,3,5,NA,"Unemployed",NA
+"146_1",3202,8,2017-12-28,"2017-12",1,"25-29","Export-oriented sectors","Export-oriented sectors",5,0,2,4,NA,"Currently working",1.8325
+"146_1",3226,25,2018-10-01,"2018-10",1,"25-29","Export-oriented sectors","Export-oriented sectors",5,1,2,4,3,"Currently working",NA
+"15_1",3113,8,2015-09-30,"2015-09",2,"25-29","Non-tradable sectors",NA,5,0,5,3,NA,"Currently working",NA
+"15_1",3191,8,2017-10-02,"2017-10",2,"25-29","Non-tradable sectors",NA,5,1,3,5,NA,"Unemployed",NA
+"15_1",3202,8,2017-12-28,"2017-12",2,"25-29","Non-tradable sectors",NA,5,1,2,4,5,"Currently working",1.8325
+"15_1",3226,25,2018-10-01,"2018-10",2,"25-29","Non-tradable sectors",NA,5,1,3,4,NA,"Currently working",NA
+"16_1",3113,8,2015-09-30,"2015-09",1,"25-29","Non-tradable sectors",NA,5,0,5,NA,NA,"Currently working",NA
+"16_1",3191,8,2017-10-02,"2017-10",1,"25-29","Non-tradable sectors",NA,5,0,8,2,NA,"Currently working",NA
+"16_1",3202,8,2017-12-28,"2017-12",1,"25-29","Non-tradable sectors",NA,5,1,1,5,NA,"Currently working",1.8325
+"16_1",3226,8,2018-10-01,"2018-10",1,"25-29","Non-tradable sectors",NA,5,1,3,3,5,"Currently working",NA
+"164_1",3113,8,2015-09-30,"2015-09",1,"40-44","Export-oriented sectors","Export-oriented sectors",4,1,4,5,6,"Currently working",NA
+"164_1",3191,8,2017-10-02,"2017-10",1,"40-44","Export-oriented sectors","Export-oriented sectors",4,NA,2,4,NA,"Currently working",NA
+"164_1",3202,8,2017-12-28,"2017-12",1,"40-44","Export-oriented sectors","Export-oriented sectors",4,NA,3,4,NA,"Currently working",1.8325
+"164_1",3226,8,2018-10-01,"2018-10",1,"40-44","Export-oriented sectors","Export-oriented sectors",4,NA,3,3,5,"Currently working",NA
+"17_1",3113,8,2015-09-30,"2015-09",2,"25-29","Non-tradable sectors",NA,3,1,3,4,NA,"Currently working",NA
+"17_1",3191,8,2017-10-02,"2017-10",2,"25-29","Non-tradable sectors",NA,3,NA,NA,1,NA,"Unemployed",NA
+"17_1",3202,8,2017-12-28,"2017-12",2,"25-29","Non-tradable sectors",NA,3,0,1,NA,7,"Currently working",1.8325
+"17_1",3226,8,2018-10-01,"2018-10",2,"25-29","Non-tradable sectors",NA,3,0,3,4,4,"Currently working",NA
+"20_1",3113,8,2015-09-30,"2015-09",1,"25-29","Non-tradable sectors",NA,1,NA,NA,2,5,"Currently working",NA
+"20_1",3191,8,2017-10-02,"2017-10",1,"25-29","Non-tradable sectors",NA,1,NA,NA,1,4,"Unemployed",NA
+"20_1",3202,25,2017-12-28,"2017-12",1,"25-29","Non-tradable sectors",NA,1,1,3,4,NA,"Currently working",0.27726
+"20_1",3226,8,2018-10-01,"2018-10",1,"25-29","Non-tradable sectors",NA,1,NA,6,NA,1,"Unemployed",NA
+"22_1",3113,17,2015-09-30,"2015-09",1,"65-69","Non-tradable sectors",NA,2,1,1,5,9,"Retired",NA
+"22_1",3191,17,2017-10-02,"2017-10",1,"65-69","Non-tradable sectors",NA,2,NA,4,3,NA,"Retired",NA
+"22_1",3202,8,2017-12-28,"2017-12",1,"65-69","Non-tradable sectors",NA,2,1,5,5,NA,"Retired",1.8325
+"22_1",3226,8,2018-10-01,"2018-10",1,"65-69","Non-tradable sectors",NA,2,0,6,2,7,"Currently working",NA
+"236_1",3113,8,2015-09-30,"2015-09",1,"30-34","Export-oriented sectors","Export-oriented sectors",5,0,2,3,7,"Currently working",NA
+"236_1",3191,8,2017-10-02,"2017-10",1,"30-34","Export-oriented sectors","Export-oriented sectors",5,NA,4,3,9,"Currently working",NA
+"236_1",3202,8,2017-12-28,"2017-12",1,"30-34","Export-oriented sectors","Export-oriented sectors",5,1,2,5,NA,"Currently working",1.8325
+"236_1",3226,8,2018-10-01,"2018-10",1,"30-34","Export-oriented sectors","Export-oriented sectors",5,0,3,4,5,"Currently working",NA
+"25_1",3113,8,2015-09-30,"2015-09",2,"65-69","Non-tradable sectors",NA,5,0,5,4,7,"Retired",NA
+"25_1",3191,8,2017-10-02,"2017-10",2,"65-69","Non-tradable sectors",NA,5,NA,5,3,NA,"Retired",NA
+"25_1",3202,8,2017-12-28,"2017-12",2,"65-69","Non-tradable sectors",NA,5,1,3,5,NA,"Retired",1.8325
+"25_1",3226,8,2018-10-01,"2018-10",2,"65-69","Non-tradable sectors",NA,5,1,1,5,6,"Retired",NA
+"26_1",3113,8,2015-09-30,"2015-09",1,"65-69","Non-tradable sectors",NA,5,0,NA,3,6,"Retired",NA
+"26_1",3191,8,2017-10-02,"2017-10",1,"65-69","Non-tradable sectors",NA,5,0,5,2,NA,"Retired",NA
+"26_1",3202,8,2017-12-28,"2017-12",1,"65-69","Non-tradable sectors",NA,5,1,1,4,NA,"Retired",1.8325
+"26_1",3226,8,2018-10-01,"2018-10",1,"65-69","Non-tradable sectors",NA,5,1,2,4,NA,"Retired",NA
+"26_2",3113,8,2015-09-30,"2015-09",1,"65-69","Non-tradable sectors",NA,5,NA,2,3,9,"Currently working",NA
+"26_2",3191,43,2017-10-02,"2017-10",1,"65-69","Non-tradable sectors",NA,5,0,5,3,5,"Retired",NA
+"26_2",3202,8,2017-12-28,"2017-12",1,"65-69","Non-tradable sectors",NA,5,1,2,5,9,"Retired",1.8325
+"26_2",3226,8,2018-10-01,"2018-10",1,"65-69","Non-tradable sectors",NA,5,NA,4,4,NA,"Retired",NA
+"261_1",3113,25,2015-09-30,"2015-09",2,"60-64","Import-oriented sectors","Import-oriented sectors",2,0,5,3,5,"Unemployed",NA
+"261_1",3191,8,2017-10-02,"2017-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",2,1,4,5,NA,"Currently working",NA
+"261_1",3202,8,2017-12-28,"2017-12",2,"60-64","Import-oriented sectors","Import-oriented sectors",2,NA,NA,3,6,NA,1.8325
+"261_1",3226,8,2018-10-01,"2018-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",2,NA,NA,3,NA,"Retired",NA
+"269_1",3113,8,2015-09-30,"2015-09",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,8,3,4,NA,NA
+"269_1",3191,8,2017-10-02,"2017-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,NA,3,4,4,"Retired",NA
+"269_1",3202,8,2017-12-28,"2017-12",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,7,3,NA,"Retired",1.8325
+"269_1",3226,8,2018-10-01,"2018-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,7,3,NA,"Unemployed",NA
+"269_2",3113,8,2015-09-30,"2015-09",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,NA,4,1,6,"Unemployed",NA
+"269_2",3191,8,2017-10-02,"2017-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,1,5,4,NA,NA,NA
+"269_2",3202,8,2017-12-28,"2017-12",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,4,3,4,"Retired",1.8325
+"269_2",3226,8,2018-10-01,"2018-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,1,3,5,1,NA,NA
+"269_3",3113,8,2015-09-30,"2015-09",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,5,4,NA,NA,NA
+"269_3",3191,8,2017-10-02,"2017-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,NA,3,4,NA,NA,NA
+"269_3",3202,8,2017-12-28,"2017-12",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,1,6,3,6,"Retired",1.8325
+"269_3",3226,8,2018-10-01,"2018-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,5,3,2,"Unemployed",NA
+"269_4",3113,8,2015-09-30,"2015-09",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,NA,3,NA,"Retired",NA
+"269_4",3191,43,2017-10-02,"2017-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,5,1,3,"Unemployed",NA
+"269_4",3202,8,2017-12-28,"2017-12",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,1,3,5,NA,"Retired",1.8325
+"269_4",3226,8,2018-10-01,"2018-10",2,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,NA,1,4,"Retired",NA
+"270_1",3113,8,2015-09-30,"2015-09",1,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,5,3,NA,"Retired",NA
+"270_1",3191,8,2017-10-02,"2017-10",1,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,10,1,NA,"Retired",NA
+"270_1",3202,8,2017-12-28,"2017-12",1,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,3,4,NA,"Retired",1.8325
+"270_1",3226,8,2018-10-01,"2018-10",1,"60-64","Import-oriented sectors","Import-oriented sectors",1,0,1,3,4,"Currently working",NA
+"273_1",3113,8,2015-09-30,"2015-09",2,"25-29","Import-oriented sectors","Import-oriented sectors",4,0,2,4,NA,"Currently working",NA
+"273_1",3191,17,2017-10-02,"2017-10",2,"25-29","Import-oriented sectors","Import-oriented sectors",4,NA,NA,NA,NA,"Currently working",NA
+"273_1",3202,8,2017-12-28,"2017-12",2,"25-29","Import-oriented sectors","Import-oriented sectors",4,0,7,3,NA,NA,1.8325
+"273_1",3226,8,2018-10-01,"2018-10",2,"25-29","Import-oriented sectors","Import-oriented sectors",4,0,NA,3,5,"Currently working",NA
+"28_1",3113,8,2015-09-30,"2015-09",1,"65-69","Non-tradable sectors",NA,3,1,6,4,8,"Retired",NA
+"28_1",3191,8,2017-10-02,"2017-10",1,"65-69","Non-tradable sectors",NA,3,1,5,4,NA,"Retired",NA
+"28_1",3202,8,2017-12-28,"2017-12",1,"65-69","Non-tradable sectors",NA,3,1,2,4,NA,"Retired",1.8325
+"28_1",3226,8,2018-10-01,"2018-10",1,"65-69","Non-tradable sectors",NA,3,1,6,5,NA,"Retired",NA
+"28_2",3113,8,2015-09-30,"2015-09",1,"65-69","Non-tradable sectors",NA,3,1,6,5,NA,"Retired",NA
+"28_2",3191,8,2017-10-02,"2017-10",1,"65-69","Non-tradable sectors",NA,3,NA,5,4,6,"Retired",NA
+"28_2",3202,8,2017-12-28,"2017-12",1,"65-69","Non-tradable sectors",NA,3,1,3,5,NA,"Retired",1.8325
+"28_2",3226,17,2018-10-01,"2018-10",1,"65-69","Non-tradable sectors",NA,3,1,2,5,5,"Retired",NA
+"289_1",3113,8,2015-09-30,"2015-09",2,"65-69","Import-oriented sectors","Import-oriented sectors",1,NA,5,3,NA,"Retired",NA
+"289_1",3191,8,2017-10-02,"2017-10",2,"65-69","Import-oriented sectors","Import-oriented sectors",1,0,2,3,6,"Retired",NA
+"289_1",3202,8,2017-12-28,"2017-12",2,"65-69","Import-oriented sectors","Import-oriented sectors",1,0,NA,3,NA,"Retired",1.8325
+"289_1",3226,8,2018-10-01,"2018-10",2,"65-69","Import-oriented sectors","Import-oriented sectors",1,0,5,3,3,"Retired",NA
+"289_2",3113,8,2015-09-30,"2015-09",2,"65-69","Import-oriented sectors","Import-oriented sectors",1,NA,7,4,NA,"Retired",NA
+"289_2",3191,8,2017-10-02,"2017-10",2,"65-69","Import-oriented sectors","Import-oriented sectors",1,0,3,4,4,"Retired",NA
+"289_2",3202,8,2017-12-28,"2017-12",2,"65-69","Import-oriented sectors","Import-oriented sectors",1,0,6,3,5,NA,1.8325
+"289_2",3226,8,2018-10-01,"2018-10",2,"65-69","Import-oriented sectors","Import-oriented sectors",1,NA,NA,3,3,"Retired",NA
+"29_1",3113,8,2015-09-30,"2015-09",2,"65-69","Non-tradable sectors",NA,1,0,4,1,NA,"Retired",NA
+"29_1",3191,8,2017-10-02,"2017-10",2,"65-69","Non-tradable sectors",NA,1,0,4,3,6,"Retired",NA
+"29_1",3202,8,2017-12-28,"2017-12",2,"65-69","Non-tradable sectors",NA,1,0,NA,3,5,"Retired",1.8325
+"29_1",3226,8,2018-10-01,"2018-10",2,"65-69","Non-tradable sectors",NA,1,NA,NA,5,NA,"Retired",NA
+"29_2",3113,8,2015-09-30,"2015-09",2,"65-69","Non-tradable sectors",NA,1,0,5,3,NA,"Retired",NA
+"29_2",3191,8,2017-10-02,"2017-10",2,"65-69","Non-tradable sectors",NA,1,0,NA,3,7,"Retired",NA
+"29_2",3202,8,2017-12-28,"2017-12",2,"65-69","Non-tradable sectors",NA,1,0,4,3,6,"Retired",1.8325
+"29_2",3226,8,2018-10-01,"2018-10",2,"65-69","Non-tradable sectors",NA,1,NA,5,3,NA,"Retired",NA
+"29_3",3113,8,2015-09-30,"2015-09",2,"65-69","Non-tradable sectors",NA,1,0,5,1,6,NA,NA
+"29_3",3191,8,2017-10-02,"2017-10",2,"65-69","Non-tradable sectors",NA,1,0,4,1,NA,"Retired",NA
+"29_3",3202,8,2017-12-28,"2017-12",2,"65-69","Non-tradable sectors",NA,1,NA,NA,4,NA,"Retired",1.8325
+"29_3",3226,8,2018-10-01,"2018-10",2,"65-69","Non-tradable sectors",NA,1,0,5,3,4,"Retired",NA
+"29_4",3113,8,2015-09-30,"2015-09",2,"65-69","Non-tradable sectors",NA,1,0,5,3,5,NA,NA
+"29_4",3191,8,2017-10-02,"2017-10",2,"65-69","Non-tradable sectors",NA,1,0,5,3,NA,"Currently working",NA
+"29_4",3202,8,2017-12-28,"2017-12",2,"65-69","Non-tradable sectors",NA,1,0,4,3,NA,"Currently working",1.8325
+"29_4",3226,8,2018-10-01,"2018-10",2,"65-69","Non-tradable sectors",NA,1,1,3,5,4,"Retired",NA
+"29_5",3113,8,2015-09-30,"2015-09",2,"65-69","Non-tradable sectors",NA,1,NA,4,3,5,NA,NA
+"29_5",3191,43,2017-10-02,"2017-10",2,"65-69","Non-tradable sectors",NA,1,0,3,3,5,"Retired",NA
+"29_5",3202,8,2017-12-28,"2017-12",2,"65-69","Non-tradable sectors",NA,1,0,4,2,6,"Retired",1.8325
+"29_5",3226,8,2018-10-01,"2018-10",2,"65-69","Non-tradable sectors",NA,1,0,4,5,1,NA,NA
+"29_6",3113,8,2015-09-30,"2015-09",2,"65-69","Non-tradable sectors",NA,1,1,1,5,8,"Retired",NA
+"29_6",3191,43,2017-10-02,"2017-10",2,"65-69","Non-tradable sectors",NA,1,0,3,3,5,"Retired",NA
+"29_6",3202,8,2017-12-28,"2017-12",2,"65-69","Non-tradable sectors",NA,1,0,1,3,7,"Retired",1.8325
+"29_6",3226,25,2018-10-01,"2018-10",2,"65-69","Non-tradable sectors",NA,1,1,1,5,5,"Retired",NA
+"290_1",3113,8,2015-09-30,"2015-09",1,"65-69","Import-oriented sectors","Import-oriented sectors",1,NA,5,2,6,"Retired",NA
+"290_1",3191,8,2017-10-02,"2017-10",1,"65-69","Import-oriented sectors","Import-oriented sectors",1,0,2,3,6,"Retired",NA
+"290_1",3202,8,2017-12-28,"2017-12",1,"65-69","Import-oriented sectors","Import-oriented sectors",1,0,5,3,5,"Retired",1.8325
+"290_1",3226,8,2018-10-01,"2018-10",1,"65-69","Import-oriented sectors","Import-oriented sectors",1,0,5,1,5,"Retired",NA
+"292_1",3113,8,2015-09-30,"2015-09",1,"40-44","Import-oriented sectors","Import-oriented sectors",2,1,8,5,5,"Currently working",NA
+"292_1",3191,17,2017-10-02,"2017-10",1,"40-44","Import-oriented sectors","Import-oriented sectors",2,1,2,5,NA,"Currently working",NA
+"292_1",3202,8,2017-12-28,"2017-12",1,"40-44","Import-oriented sectors","Import-oriented sectors",2,1,5,4,3,"Unemployed",1.8325
+"292_1",3226,25,2018-10-01,"2018-10",1,"40-44","Import-oriented sectors","Import-oriented sectors",2,1,1,5,NA,"Currently working",NA
+"293_1",3113,8,2015-09-30,"2015-09",2,"40-44","Import-oriented sectors","Import-oriented sectors",4,NA,NA,3,NA,NA,NA
+"293_1",3191,8,2017-10-02,"2017-10",2,"40-44","Import-oriented sectors","Import-oriented sectors",4,0,6,3,7,"Unemployed",NA
+"293_1",3202,8,2017-12-28,"2017-12",2,"40-44","Import-oriented sectors","Import-oriented sectors",4,1,2,5,6,"Currently working",1.8325
+"293_1",3226,8,2018-10-01,"2018-10",2,"40-44","Import-oriented sectors","Import-oriented sectors",4,1,1,5,NA,NA,NA
+"294_1",3113,8,2015-09-30,"2015-09",1,"40-44","Import-oriented sectors","Import-oriented sectors",4,1,1,4,7,"Currently working",NA
+"294_1",3191,8,2017-10-02,"2017-10",1,"40-44","Import-oriented sectors","Import-oriented sectors",4,NA,5,3,7,"Currently working",NA
+"294_1",3202,8,2017-12-28,"2017-12",1,"40-44","Import-oriented sectors","Import-oriented sectors",4,0,5,3,7,"Currently working",1.8325
+"294_1",3226,8,2018-10-01,"2018-10",1,"40-44","Import-oriented sectors","Import-oriented sectors",4,0,5,3,NA,"Currently working",NA
+"295_1",3113,8,2015-09-30,"2015-09",2,"40-44","Import-oriented sectors","Import-oriented sectors",5,1,4,4,9,"Currently working",NA
+"295_1",3191,8,2017-10-02,"2017-10",2,"40-44","Import-oriented sectors","Import-oriented sectors",5,0,5,4,8,"Currently working",NA
+"295_1",3202,8,2017-12-28,"2017-12",2,"40-44","Import-oriented sectors","Import-oriented sectors",5,0,1,4,NA,"Unemployed",1.8325
+"295_1",3226,8,2018-10-01,"2018-10",2,"40-44","Import-oriented sectors","Import-oriented sectors",5,1,4,4,NA,"Currently working",NA
+"295_2",3113,8,2015-09-30,"2015-09",2,"40-44","Import-oriented sectors","Import-oriented sectors",5,1,6,5,8,NA,NA
+"295_2",3191,17,2017-10-02,"2017-10",2,"40-44","Import-oriented sectors","Import-oriented sectors",5,0,3,4,NA,"Currently working",NA
+"295_2",3202,8,2017-12-28,"2017-12",2,"40-44","Import-oriented sectors","Import-oriented sectors",5,1,3,4,8,"Currently working",1.8325
+"295_2",3226,43,2018-10-01,"2018-10",2,"40-44","Import-oriented sectors","Import-oriented sectors",5,NA,3,5,6,"Currently working",NA
+"302_1",3113,8,2015-09-30,"2015-09",1,"35-39","Import-oriented sectors","Import-oriented sectors",2,1,1,4,5,"Unemployed",NA
+"302_1",3191,43,2017-10-02,"2017-10",1,"35-39","Import-oriented sectors","Import-oriented sectors",2,0,3,4,9,"Currently working",NA
+"302_1",3202,8,2017-12-28,"2017-12",1,"35-39","Import-oriented sectors","Import-oriented sectors",2,0,4,3,NA,"Currently working",1.8325
+"302_1",3226,8,2018-10-01,"2018-10",1,"35-39","Import-oriented sectors","Import-oriented sectors",2,NA,NA,3,NA,"Unemployed",NA
+"303_1",3113,8,2015-09-30,"2015-09",2,"35-39","Import-oriented sectors","Import-oriented sectors",4,0,5,3,NA,"Currently working",NA
+"303_1",3191,8,2017-10-02,"2017-10",2,"35-39","Import-oriented sectors","Import-oriented sectors",4,1,2,5,9,"Currently working",NA
+"303_1",3202,8,2017-12-28,"2017-12",2,"35-39","Import-oriented sectors","Import-oriented sectors",4,0,4,3,6,NA,1.8325
+"303_1",3226,8,2018-10-01,"2018-10",2,"35-39","Import-oriented sectors","Import-oriented sectors",4,0,5,3,NA,"Currently working",NA
+"304_1",3113,8,2015-09-30,"2015-09",1,"35-39","Import-oriented sectors","Import-oriented sectors",4,0,5,3,NA,"Currently working",NA
+"304_1",3191,8,2017-10-02,"2017-10",1,"35-39","Import-oriented sectors","Import-oriented sectors",4,1,2,5,5,"Unemployed",NA
+"304_1",3202,8,2017-12-28,"2017-12",1,"35-39","Import-oriented sectors","Import-oriented sectors",4,0,7,3,7,"Currently working",1.8325
+"304_1",3226,8,2018-10-01,"2018-10",1,"35-39","Import-oriented sectors","Import-oriented sectors",4,0,3,3,5,"Unemployed",NA
+"305_1",3113,8,2015-09-30,"2015-09",2,"35-39","Import-oriented sectors","Import-oriented sectors",5,0,5,3,NA,"Currently working",NA
+"305_1",3191,8,2017-10-02,"2017-10",2,"35-39","Import-oriented sectors","Import-oriented sectors",5,1,3,5,NA,"Currently working",NA
+"305_1",3202,8,2017-12-28,"2017-12",2,"35-39","Import-oriented sectors","Import-oriented sectors",5,1,5,3,9,"Currently working",1.8325
+"305_1",3226,8,2018-10-01,"2018-10",2,"35-39","Import-oriented sectors","Import-oriented sectors",5,0,5,4,NA,"Currently working",NA
+"306_1",3113,8,2015-09-30,"2015-09",1,"35-39","Import-oriented sectors","Import-oriented sectors",5,1,7,5,8,"Currently working",NA
+"306_1",3191,8,2017-10-02,"2017-10",1,"35-39","Import-oriented sectors","Import-oriented sectors",5,NA,5,3,7,"Currently working",NA
+"306_1",3202,8,2017-12-28,"2017-12",1,"35-39","Import-oriented sectors","Import-oriented sectors",5,1,3,5,10,"Currently working",1.8325
+"306_1",3226,8,2018-10-01,"2018-10",1,"35-39","Import-oriented sectors","Import-oriented sectors",5,NA,3,NA,NA,"Currently working",NA
+"306_2",3113,8,2015-09-30,"2015-09",1,"35-39","Import-oriented sectors","Import-oriented sectors",5,1,5,5,NA,"Currently working",NA
+"306_2",3191,17,2017-10-02,"2017-10",1,"35-39","Import-oriented sectors","Import-oriented sectors",5,1,1,5,7,"Currently working",NA
+"306_2",3202,8,2017-12-28,"2017-12",1,"35-39","Import-oriented sectors","Import-oriented sectors",5,1,1,5,7,"Currently working",1.8325
+"306_2",3226,8,2018-10-01,"2018-10",1,"35-39","Import-oriented sectors","Import-oriented sectors",5,0,4,3,NA,"Currently working",NA
+"31_1",3113,8,2015-09-30,"2015-09",2,"40-44","Non-tradable sectors",NA,2,0,3,3,6,"Unemployed",NA
+"31_1",3191,8,2017-10-02,"2017-10",2,"40-44","Non-tradable sectors",NA,2,0,NA,3,6,"Unemployed",NA
+"31_1",3202,8,2017-12-28,"2017-12",2,"40-44","Non-tradable sectors",NA,2,0,NA,3,NA,"Currently working",1.8325
+"31_1",3226,8,2018-10-01,"2018-10",2,"40-44","Non-tradable sectors",NA,2,0,4,3,NA,"Currently working",NA
+"31_2",3113,8,2015-09-30,"2015-09",2,"40-44","Non-tradable sectors",NA,2,0,1,4,NA,"Unemployed",NA
+"31_2",3191,17,2017-10-02,"2017-10",2,"40-44","Non-tradable sectors",NA,2,NA,7,3,NA,"Currently working",NA
+"31_2",3202,8,2017-12-28,"2017-12",2,"40-44","Non-tradable sectors",NA,2,1,1,5,6,NA,1.8325
+"31_2",3226,17,2018-10-01,"2018-10",2,"40-44","Non-tradable sectors",NA,2,1,3,5,NA,"Currently working",NA
+"311_1",3113,8,2015-09-30,"2015-09",2,"45-49","Import-oriented sectors","Import-oriented sectors",2,0,7,3,6,"Currently working",NA
+"311_1",3191,17,2017-10-02,"2017-10",2,"45-49","Import-oriented sectors","Import-oriented sectors",2,NA,NA,NA,6,"Currently working",NA
+"311_1",3202,8,2017-12-28,"2017-12",2,"45-49","Import-oriented sectors","Import-oriented sectors",2,1,3,4,NA,NA,1.8325
+"311_1",3226,8,2018-10-01,"2018-10",2,"45-49","Import-oriented sectors","Import-oriented sectors",2,0,5,3,3,"Retired",NA
+"314_1",3113,8,2015-09-30,"2015-09",1,"45-49","Import-oriented sectors","Import-oriented sectors",4,NA,NA,3,5,"Unemployed",NA
+"314_1",3191,8,2017-10-02,"2017-10",1,"45-49","Import-oriented sectors","Import-oriented sectors",4,0,10,3,9,"Currently working",NA
+"314_1",3202,8,2017-12-28,"2017-12",1,"45-49","Import-oriented sectors","Import-oriented sectors",4,1,5,5,6,"Currently working",1.8325
+"314_1",3226,8,2018-10-01,"2018-10",1,"45-49","Import-oriented sectors","Import-oriented sectors",4,NA,NA,NA,NA,"Unemployed",NA
+"314_2",3113,8,2015-09-30,"2015-09",1,"45-49","Import-oriented sectors","Import-oriented sectors",4,0,4,3,9,"Currently working",NA
+"314_2",3191,8,2017-10-02,"2017-10",1,"45-49","Import-oriented sectors","Import-oriented sectors",4,0,2,5,8,"Currently working",NA
+"314_2",3202,8,2017-12-28,"2017-12",1,"45-49","Import-oriented sectors","Import-oriented sectors",4,0,3,3,NA,"Currently working",1.8325
+"314_2",3226,8,2018-10-01,"2018-10",1,"45-49","Import-oriented sectors","Import-oriented sectors",4,NA,NA,3,NA,"Currently working",NA
+"316_1",3113,8,2015-09-30,"2015-09",1,"45-49","Import-oriented sectors","Import-oriented sectors",5,1,3,5,7,"Currently working",NA
+"316_1",3191,8,2017-10-02,"2017-10",1,"45-49","Import-oriented sectors","Import-oriented sectors",5,NA,3,3,NA,"Currently working",NA
+"316_1",3202,8,2017-12-28,"2017-12",1,"45-49","Import-oriented sectors","Import-oriented sectors",5,0,7,3,10,"Currently working",1.8325
+"316_1",3226,8,2018-10-01,"2018-10",1,"45-49","Import-oriented sectors","Import-oriented sectors",5,NA,3,NA,NA,"Unemployed",NA
+"318_1",3113,8,2015-09-30,"2015-09",1,"45-49","Import-oriented sectors","Import-oriented sectors",3,1,3,5,8,"Currently working",NA
+"318_1",3191,8,2017-10-02,"2017-10",1,"45-49","Import-oriented sectors","Import-oriented sectors",3,NA,NA,3,3,"Unemployed",NA
+"318_1",3202,8,2017-12-28,"2017-12",1,"45-49","Import-oriented sectors","Import-oriented sectors",3,1,3,NA,6,"Unemployed",1.8325
+"318_1",3226,8,2018-10-01,"2018-10",1,"45-49","Import-oriented sectors","Import-oriented sectors",3,0,7,1,6,"Currently working",NA
+"32_1",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,2,1,2,4,6,"Currently working",NA
+"32_1",3191,8,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,2,1,2,5,6,NA,NA
+"32_1",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,2,1,3,5,4,"Unemployed",1.8325
+"32_1",3226,8,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,2,1,3,5,4,"Retired",NA
+"32_2",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,2,1,3,4,NA,"Unemployed",NA
+"32_2",3191,8,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,2,0,3,NA,NA,"Unemployed",NA
+"32_2",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,2,0,5,4,6,"Unemployed",1.8325
+"32_2",3226,8,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,2,0,4,4,6,"Currently working",NA
+"32_3",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,2,1,5,4,NA,"Currently working",NA
+"32_3",3191,17,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,2,0,1,3,6,"Retired",NA
+"32_3",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,2,0,NA,2,4,"Unemployed",1.8325
+"32_3",3226,17,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,2,0,2,3,3,"Unemployed",NA
+"322_1",3113,8,2015-09-30,"2015-09",1,"18-24","Import-oriented sectors","Import-oriented sectors",2,0,7,2,NA,NA,NA
+"322_1",3191,17,2017-10-02,"2017-10",1,"18-24","Import-oriented sectors","Import-oriented sectors",2,NA,5,3,NA,"Unemployed",NA
+"322_1",3202,8,2017-12-28,"2017-12",1,"18-24","Import-oriented sectors","Import-oriented sectors",2,1,1,4,NA,"Currently working",1.8325
+"322_1",3226,17,2018-10-01,"2018-10",1,"18-24","Import-oriented sectors","Import-oriented sectors",2,0,1,4,1,NA,NA
+"324_1",3113,8,2015-09-30,"2015-09",1,"18-24","Import-oriented sectors","Import-oriented sectors",4,NA,5,3,6,NA,NA
+"324_1",3191,25,2017-10-02,"2017-10",1,"18-24","Import-oriented sectors","Import-oriented sectors",4,NA,5,NA,NA,"Currently working",NA
+"324_1",3202,8,2017-12-28,"2017-12",1,"18-24","Import-oriented sectors","Import-oriented sectors",4,0,NA,3,9,"Currently working",1.8325
+"324_1",3226,8,2018-10-01,"2018-10",1,"18-24","Import-oriented sectors","Import-oriented sectors",4,1,2,5,1,NA,NA
+"328_1",3113,8,2015-09-30,"2015-09",1,"18-24","Import-oriented sectors","Import-oriented sectors",3,NA,5,3,NA,"Currently working",NA
+"328_1",3191,8,2017-10-02,"2017-10",1,"18-24","Import-oriented sectors","Import-oriented sectors",3,0,3,4,7,"Currently working",NA
+"328_1",3202,8,2017-12-28,"2017-12",1,"18-24","Import-oriented sectors","Import-oriented sectors",3,0,1,4,NA,NA,1.8325
+"328_1",3226,8,2018-10-01,"2018-10",1,"18-24","Import-oriented sectors","Import-oriented sectors",3,NA,7,4,2,NA,NA
+"33_1",3113,8,2015-09-30,"2015-09",2,"40-44","Non-tradable sectors",NA,4,1,NA,3,5,"Currently working",NA
+"33_1",3191,8,2017-10-02,"2017-10",2,"40-44","Non-tradable sectors",NA,4,0,4,3,7,"Currently working",NA
+"33_1",3202,8,2017-12-28,"2017-12",2,"40-44","Non-tradable sectors",NA,4,NA,5,3,8,"Currently working",1.8325
+"33_1",3226,8,2018-10-01,"2018-10",2,"40-44","Non-tradable sectors",NA,4,0,8,1,6,"Currently working",NA
+"33_2",3113,8,2015-09-30,"2015-09",2,"40-44","Non-tradable sectors",NA,4,0,6,3,NA,"Currently working",NA
+"33_2",3191,8,2017-10-02,"2017-10",2,"40-44","Non-tradable sectors",NA,4,NA,NA,3,8,"Currently working",NA
+"33_2",3202,8,2017-12-28,"2017-12",2,"40-44","Non-tradable sectors",NA,4,NA,NA,3,8,"Currently working",1.8325
+"33_2",3226,8,2018-10-01,"2018-10",2,"40-44","Non-tradable sectors",NA,4,0,NA,3,NA,"Currently working",NA
+"33_3",3113,8,2015-09-30,"2015-09",2,"40-44","Non-tradable sectors",NA,4,0,6,3,NA,"Currently working",NA
+"33_3",3191,8,2017-10-02,"2017-10",2,"40-44","Non-tradable sectors",NA,4,NA,NA,5,7,"Currently working",NA
+"33_3",3202,8,2017-12-28,"2017-12",2,"40-44","Non-tradable sectors",NA,4,NA,4,3,8,"Currently working",1.8325
+"33_3",3226,8,2018-10-01,"2018-10",2,"40-44","Non-tradable sectors",NA,4,NA,NA,3,NA,"Currently working",NA
+"331_1",3113,8,2015-09-30,"2015-09",2,"50-54","Import-oriented sectors","Import-oriented sectors",2,0,3,5,8,"Currently working",NA
+"331_1",3191,43,2017-10-02,"2017-10",2,"50-54","Import-oriented sectors","Import-oriented sectors",2,NA,4,5,NA,"Currently working",NA
+"331_1",3202,8,2017-12-28,"2017-12",2,"50-54","Import-oriented sectors","Import-oriented sectors",2,1,6,5,NA,NA,1.8325
+"331_1",3226,8,2018-10-01,"2018-10",2,"50-54","Import-oriented sectors","Import-oriented sectors",2,0,5,3,1,NA,NA
+"332_1",3113,8,2015-09-30,"2015-09",1,"50-54","Import-oriented sectors","Import-oriented sectors",2,0,5,4,6,"Currently working",NA
+"332_1",3191,8,2017-10-02,"2017-10",1,"50-54","Import-oriented sectors","Import-oriented sectors",2,NA,5,3,NA,"Currently working",NA
+"332_1",3202,8,2017-12-28,"2017-12",1,"50-54","Import-oriented sectors","Import-oriented sectors",2,0,4,3,8,"Currently working",1.8325
+"332_1",3226,17,2018-10-01,"2018-10",1,"50-54","Import-oriented sectors","Import-oriented sectors",2,NA,5,5,4,"Unemployed",NA
+"334_1",3113,8,2015-09-30,"2015-09",1,"50-54","Import-oriented sectors","Import-oriented sectors",4,0,4,3,5,"Unemployed",NA
+"334_1",3191,8,2017-10-02,"2017-10",1,"50-54","Import-oriented sectors","Import-oriented sectors",4,0,4,4,8,"Currently working",NA
+"334_1",3202,8,2017-12-28,"2017-12",1,"50-54","Import-oriented sectors","Import-oriented sectors",4,0,3,4,NA,"Currently working",1.8325
+"334_1",3226,8,2018-10-01,"2018-10",1,"50-54","Import-oriented sectors","Import-oriented sectors",4,0,4,3,NA,"Currently working",NA
+"334_2",3113,8,2015-09-30,"2015-09",1,"50-54","Import-oriented sectors","Import-oriented sectors",4,1,3,3,NA,"Currently working",NA
+"334_2",3191,8,2017-10-02,"2017-10",1,"50-54","Import-oriented sectors","Import-oriented sectors",4,0,5,3,8,"Retired",NA
+"334_2",3202,8,2017-12-28,"2017-12",1,"50-54","Import-oriented sectors","Import-oriented sectors",4,1,3,3,8,"Currently working",1.8325
+"334_2",3226,8,2018-10-01,"2018-10",1,"50-54","Import-oriented sectors","Import-oriented sectors",4,0,3,3,NA,"Currently working",NA
+"335_1",3113,8,2015-09-30,"2015-09",2,"50-54","Import-oriented sectors","Import-oriented sectors",5,1,3,5,NA,NA,NA
+"335_1",3191,8,2017-10-02,"2017-10",2,"50-54","Import-oriented sectors","Import-oriented sectors",5,0,3,3,6,"Unemployed",NA
+"335_1",3202,17,2017-12-28,"2017-12",2,"50-54","Import-oriented sectors","Import-oriented sectors",5,1,5,4,8,"Currently working",0.47976
+"335_1",3226,43,2018-10-01,"2018-10",2,"50-54","Import-oriented sectors","Import-oriented sectors",5,1,5,5,NA,"Currently working",NA
+"337_1",3113,8,2015-09-30,"2015-09",2,"50-54","Import-oriented sectors","Import-oriented sectors",3,NA,7,3,NA,"Unemployed",NA
+"337_1",3191,8,2017-10-02,"2017-10",2,"50-54","Import-oriented sectors","Import-oriented sectors",3,1,5,4,NA,"Currently working",NA
+"337_1",3202,8,2017-12-28,"2017-12",2,"50-54","Import-oriented sectors","Import-oriented sectors",3,1,5,5,9,"Currently working",1.8325
+"337_1",3226,8,2018-10-01,"2018-10",2,"50-54","Import-oriented sectors","Import-oriented sectors",3,1,3,5,NA,"Currently working",NA
+"338_1",3113,8,2015-09-30,"2015-09",1,"50-54","Import-oriented sectors","Import-oriented sectors",3,1,5,5,11,"Currently working",NA
+"338_1",3191,8,2017-10-02,"2017-10",1,"50-54","Import-oriented sectors","Import-oriented sectors",3,0,4,3,6,NA,NA
+"338_1",3202,8,2017-12-28,"2017-12",1,"50-54","Import-oriented sectors","Import-oriented sectors",3,NA,3,3,NA,"Unemployed",1.8325
+"338_1",3226,43,2018-10-01,"2018-10",1,"50-54","Import-oriented sectors","Import-oriented sectors",3,1,4,5,5,"Currently working",NA
+"34_1",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,4,0,5,3,7,"Currently working",NA
+"34_1",3191,8,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,4,1,8,5,NA,"Currently working",NA
+"34_1",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,4,0,3,3,NA,"Currently working",1.8325
+"34_1",3226,8,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,4,0,5,3,3,"Unemployed",NA
+"34_2",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,4,1,4,4,9,"Currently working",NA
+"34_2",3191,8,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,4,0,3,3,7,"Currently working",NA
+"34_2",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,4,0,5,3,6,"Currently working",1.8325
+"34_2",3226,8,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,4,1,3,5,4,"Unemployed",NA
+"34_3",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,4,1,3,3,NA,"Currently working",NA
+"34_3",3191,8,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,4,1,3,5,11,"Unemployed",NA
+"34_3",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,4,NA,1,NA,8,"Currently working",1.8325
+"34_3",3226,8,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,4,1,4,5,6,"Currently working",NA
+"34_4",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,4,0,5,3,NA,"Unemployed",NA
+"34_4",3191,25,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,4,1,3,5,6,"Currently working",NA
+"34_4",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,4,NA,NA,NA,8,"Currently working",1.8325
+"34_4",3226,8,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,4,1,3,5,7,"Currently working",NA
+"34_5",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,4,1,5,3,6,"Currently working",NA
+"34_5",3191,43,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,4,NA,4,NA,NA,"Currently working",NA
+"34_5",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,4,1,2,5,8,"Currently working",1.8325
+"34_5",3226,43,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,4,1,1,5,NA,"Currently working",NA
+"342_1",3113,8,2015-09-30,"2015-09",1,"55-59","Import-oriented sectors","Import-oriented sectors",2,0,5,1,NA,"Unemployed",NA
+"342_1",3191,43,2017-10-02,"2017-10",1,"55-59","Import-oriented sectors","Import-oriented sectors",2,NA,NA,3,NA,"Currently working",NA
+"342_1",3202,8,2017-12-28,"2017-12",1,"55-59","Import-oriented sectors","Import-oriented sectors",2,0,2,3,NA,"Currently working",1.8325
+"342_1",3226,25,2018-10-01,"2018-10",1,"55-59","Import-oriented sectors","Import-oriented sectors",2,1,3,5,NA,"Currently working",NA
+"348_1",3113,8,2015-09-30,"2015-09",1,"55-59","Import-oriented sectors","Import-oriented sectors",3,1,4,5,NA,"Currently working",NA
+"348_1",3191,8,2017-10-02,"2017-10",1,"55-59","Import-oriented sectors","Import-oriented sectors",3,NA,5,3,NA,"Currently working",NA
+"348_1",3202,25,2017-12-28,"2017-12",1,"55-59","Import-oriented sectors","Import-oriented sectors",3,1,4,4,7,"Currently working",0.27726
+"348_1",3226,8,2018-10-01,"2018-10",1,"55-59","Import-oriented sectors","Import-oriented sectors",3,1,2,5,5,"Currently working",NA
+"35_1",3113,8,2015-09-30,"2015-09",2,"40-44","Non-tradable sectors",NA,5,0,3,4,NA,"Unemployed",NA
+"35_1",3191,8,2017-10-02,"2017-10",2,"40-44","Non-tradable sectors",NA,5,NA,3,5,NA,"Currently working",NA
+"35_1",3202,8,2017-12-28,"2017-12",2,"40-44","Non-tradable sectors",NA,5,1,2,4,10,"Currently working",1.8325
+"35_1",3226,8,2018-10-01,"2018-10",2,"40-44","Non-tradable sectors",NA,5,0,6,3,5,"Currently working",NA
+"35_2",3113,8,2015-09-30,"2015-09",2,"40-44","Non-tradable sectors",NA,5,0,3,3,8,"Currently working",NA
+"35_2",3191,8,2017-10-02,"2017-10",2,"40-44","Non-tradable sectors",NA,5,0,2,4,10,"Currently working",NA
+"35_2",3202,8,2017-12-28,"2017-12",2,"40-44","Non-tradable sectors",NA,5,1,1,NA,NA,"Currently working",1.8325
+"35_2",3226,8,2018-10-01,"2018-10",2,"40-44","Non-tradable sectors",NA,5,0,2,3,6,"Currently working",NA
+"35_3",3113,8,2015-09-30,"2015-09",2,"40-44","Non-tradable sectors",NA,5,1,1,5,7,"Currently working",NA
+"35_3",3191,8,2017-10-02,"2017-10",2,"40-44","Non-tradable sectors",NA,5,0,3,4,8,"Unemployed",NA
+"35_3",3202,8,2017-12-28,"2017-12",2,"40-44","Non-tradable sectors",NA,5,0,3,4,8,"Currently working",1.8325
+"35_3",3226,8,2018-10-01,"2018-10",2,"40-44","Non-tradable sectors",NA,5,0,1,3,7,"Currently working",NA
+"35_4",3113,8,2015-09-30,"2015-09",2,"40-44","Non-tradable sectors",NA,5,1,2,4,8,"Currently working",NA
+"35_4",3191,8,2017-10-02,"2017-10",2,"40-44","Non-tradable sectors",NA,5,NA,NA,5,7,"Currently working",NA
+"35_4",3202,8,2017-12-28,"2017-12",2,"40-44","Non-tradable sectors",NA,5,NA,NA,3,7,"Currently working",1.8325
+"35_4",3226,25,2018-10-01,"2018-10",2,"40-44","Non-tradable sectors",NA,5,0,5,3,5,"Currently working",NA
+"353_1",3113,17,2015-09-30,"2015-09",2,"80+","Import-oriented sectors","Import-oriented sectors",4,1,6,3,9,"Retired",NA
+"353_1",3191,8,2017-10-02,"2017-10",2,"80+","Import-oriented sectors","Import-oriented sectors",4,1,5,5,4,"Retired",NA
+"353_1",3202,8,2017-12-28,"2017-12",2,"80+","Import-oriented sectors","Import-oriented sectors",4,1,7,4,5,NA,1.8325
+"353_1",3226,25,2018-10-01,"2018-10",2,"80+","Import-oriented sectors","Import-oriented sectors",4,1,4,4,3,"Retired",NA
+"359_1",3113,8,2015-09-30,"2015-09",2,"80+","Import-oriented sectors","Import-oriented sectors",1,0,6,1,NA,"Retired",NA
+"359_1",3191,8,2017-10-02,"2017-10",2,"80+","Import-oriented sectors","Import-oriented sectors",1,1,6,3,NA,"Retired",NA
+"359_1",3202,8,2017-12-28,"2017-12",2,"80+","Import-oriented sectors","Import-oriented sectors",1,NA,NA,3,NA,"Retired",1.8325
+"359_1",3226,8,2018-10-01,"2018-10",2,"80+","Import-oriented sectors","Import-oriented sectors",1,0,3,5,NA,"Retired",NA
+"359_2",3113,8,2015-09-30,"2015-09",2,"80+","Import-oriented sectors","Import-oriented sectors",1,0,NA,4,4,"Retired",NA
+"359_2",3191,8,2017-10-02,"2017-10",2,"80+","Import-oriented sectors","Import-oriented sectors",1,1,6,4,4,"Retired",NA
+"359_2",3202,8,2017-12-28,"2017-12",2,"80+","Import-oriented sectors","Import-oriented sectors",1,1,4,4,5,"Retired",1.8325
+"359_2",3226,8,2018-10-01,"2018-10",2,"80+","Import-oriented sectors","Import-oriented sectors",1,1,5,5,NA,"Retired",NA
+"359_3",3113,8,2015-09-30,"2015-09",2,"80+","Import-oriented sectors","Import-oriented sectors",1,1,NA,3,5,"Retired",NA
+"359_3",3191,8,2017-10-02,"2017-10",2,"80+","Import-oriented sectors","Import-oriented sectors",1,0,5,2,NA,"Retired",NA
+"359_3",3202,8,2017-12-28,"2017-12",2,"80+","Import-oriented sectors","Import-oriented sectors",1,0,8,5,5,"Retired",1.8325
+"359_3",3226,43,2018-10-01,"2018-10",2,"80+","Import-oriented sectors","Import-oriented sectors",1,NA,8,3,5,"Retired",NA
+"36_1",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,5,0,5,4,NA,"Currently working",NA
+"36_1",3191,8,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,5,1,5,5,8,"Currently working",NA
+"36_1",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,5,1,3,5,10,"Currently working",1.8325
+"36_1",3226,8,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,5,1,2,5,6,"Currently working",NA
+"36_2",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,5,0,1,NA,NA,"Currently working",NA
+"36_2",3191,8,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,5,NA,NA,3,NA,"Currently working",NA
+"36_2",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,5,1,3,5,7,"Currently working",1.8325
+"36_2",3226,8,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,5,0,3,3,NA,"Unemployed",NA
+"36_3",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,5,1,8,3,NA,"Currently working",NA
+"36_3",3191,17,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,5,NA,1,4,6,"Currently working",NA
+"36_3",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,5,1,2,4,7,"Unemployed",1.8325
+"36_3",3226,8,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,5,1,1,5,NA,"Currently working",NA
+"36_4",3113,8,2015-09-30,"2015-09",1,"40-44","Non-tradable sectors",NA,5,NA,3,4,NA,"Currently working",NA
+"36_4",3191,25,2017-10-02,"2017-10",1,"40-44","Non-tradable sectors",NA,5,NA,4,5,NA,"Currently working",NA
+"36_4",3202,8,2017-12-28,"2017-12",1,"40-44","Non-tradable sectors",NA,5,0,3,3,7,"Currently working",1.8325
+"36_4",3226,17,2018-10-01,"2018-10",1,"40-44","Non-tradable sectors",NA,5,0,6,4,8,"Currently working",NA
+"360_1",3113,8,2015-09-30,"2015-09",1,"80+","Import-oriented sectors","Import-oriented sectors",1,1,NA,5,NA,"Retired",NA
+"360_1",3191,8,2017-10-02,"2017-10",1,"80+","Import-oriented sectors","Import-oriented sectors",1,0,3,4,6,"Retired",NA
+"360_1",3202,8,2017-12-28,"2017-12",1,"80+","Import-oriented sectors","Import-oriented sectors",1,1,5,5,6,"Retired",1.8325
+"360_1",3226,8,2018-10-01,"2018-10",1,"80+","Import-oriented sectors","Import-oriented sectors",1,0,3,2,NA,"Retired",NA
+"360_2",3113,8,2015-09-30,"2015-09",1,"80+","Import-oriented sectors","Import-oriented sectors",1,0,5,2,5,"Retired",NA
+"360_2",3191,17,2017-10-02,"2017-10",1,"80+","Import-oriented sectors","Import-oriented sectors",1,NA,NA,5,NA,"Retired",NA
+"360_2",3202,8,2017-12-28,"2017-12",1,"80+","Import-oriented sectors","Import-oriented sectors",1,NA,3,3,4,"Retired",1.8325
+"360_2",3226,8,2018-10-01,"2018-10",1,"80+","Import-oriented sectors","Import-oriented sectors",1,NA,NA,3,NA,"Retired",NA
+"360_3",3113,8,2015-09-30,"2015-09",1,"80+","Import-oriented sectors","Import-oriented sectors",1,1,6,5,6,"Retired",NA
+"360_3",3191,43,2017-10-02,"2017-10",1,"80+","Import-oriented sectors","Import-oriented sectors",1,NA,5,5,NA,"Retired",NA
+"360_3",3202,8,2017-12-28,"2017-12",1,"80+","Import-oriented sectors","Import-oriented sectors",1,1,5,4,NA,"Retired",1.8325
+"360_3",3226,17,2018-10-01,"2018-10",1,"80+","Import-oriented sectors","Import-oriented sectors",1,1,4,5,4,"Retired",NA
+"363_1",3113,8,2015-09-30,"2015-09",2,"30-34","Import-oriented sectors","Import-oriented sectors",4,1,1,5,7,"Currently working",NA
+"363_1",3191,8,2017-10-02,"2017-10",2,"30-34","Import-oriented sectors","Import-oriented sectors",4,NA,3,4,NA,"Currently working",NA
+"363_1",3202,8,2017-12-28,"2017-12",2,"30-34","Import-oriented sectors","Import-oriented sectors",4,1,3,3,NA,"Unemployed",1.8325
+"363_1",3226,43,2018-10-01,"2018-10",2,"30-34","Import-oriented sectors","Import-oriented sectors",4,0,3,4,4,"Currently working",NA
+"364_1",3113,8,2015-09-30,"2015-09",1,"30-34","Import-oriented sectors","Import-oriented sectors",4,1,1,4,8,"Currently working",NA
+"364_1",3191,8,2017-10-02,"2017-10",1,"30-34","Import-oriented sectors","Import-oriented sectors",4,NA,2,4,NA,"Currently working",NA
+"364_1",3202,8,2017-12-28,"2017-12",1,"30-34","Import-oriented sectors","Import-oriented sectors",4,0,NA,3,NA,"Currently working",1.8325
+"364_1",3226,8,2018-10-01,"2018-10",1,"30-34","Import-oriented sectors","Import-oriented sectors",4,0,4,3,6,"Currently working",NA
+"364_2",3113,8,2015-09-30,"2015-09",1,"30-34","Import-oriented sectors","Import-oriented sectors",4,1,2,3,NA,"Currently working",NA
+"364_2",3191,8,2017-10-02,"2017-10",1,"30-34","Import-oriented sectors","Import-oriented sectors",4,NA,4,3,NA,"Currently working",NA
+"364_2",3202,8,2017-12-28,"2017-12",1,"30-34","Import-oriented sectors","Import-oriented sectors",4,1,5,4,NA,"Currently working",1.8325
+"364_2",3226,8,2018-10-01,"2018-10",1,"30-34","Import-oriented sectors","Import-oriented sectors",4,NA,NA,3,NA,"Currently working",NA
+"365_1",3113,8,2015-09-30,"2015-09",2,"30-34","Import-oriented sectors","Import-oriented sectors",5,1,3,4,NA,"Unemployed",NA
+"365_1",3191,8,2017-10-02,"2017-10",2,"30-34","Import-oriented sectors","Import-oriented sectors",5,NA,5,3,5,"Currently working",NA
+"365_1",3202,8,2017-12-28,"2017-12",2,"30-34","Import-oriented sectors","Import-oriented sectors",5,0,1,3,7,"Currently working",1.8325
+"365_1",3226,8,2018-10-01,"2018-10",2,"30-34","Import-oriented sectors","Import-oriented sectors",5,1,4,3,6,"Currently working",NA
+"379_1",3113,8,2015-09-30,"2015-09",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,1,NA,5,6,"Retired",NA
+"379_1",3191,8,2017-10-02,"2017-10",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,NA,NA,3,4,"Retired",NA
+"379_1",3202,8,2017-12-28,"2017-12",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,NA,2,4,7,"Retired",1.8325
+"379_1",3226,8,2018-10-01,"2018-10",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,0,3,3,NA,"Retired",NA
+"379_2",3113,8,2015-09-30,"2015-09",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,1,6,5,4,"Retired",NA
+"379_2",3191,8,2017-10-02,"2017-10",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,NA,NA,5,5,"Retired",NA
+"379_2",3202,8,2017-12-28,"2017-12",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,1,NA,4,7,"Retired",1.8325
+"379_2",3226,8,2018-10-01,"2018-10",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,0,3,3,NA,"Retired",NA
+"379_3",3113,8,2015-09-30,"2015-09",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,0,5,3,NA,"Retired",NA
+"379_3",3191,25,2017-10-02,"2017-10",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,NA,NA,5,4,"Retired",NA
+"379_3",3202,8,2017-12-28,"2017-12",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,0,5,3,4,"Retired",1.8325
+"379_3",3226,8,2018-10-01,"2018-10",2,"75-79","Import-oriented sectors","Import-oriented sectors",1,1,8,NA,3,"Retired",NA
+"389_1",3113,8,2015-09-30,"2015-09",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,0,6,1,4,"Retired",NA
+"389_1",3191,8,2017-10-02,"2017-10",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,0,3,NA,5,"Retired",NA
+"389_1",3202,8,2017-12-28,"2017-12",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,1,2,3,4,"Retired",1.8325
+"389_1",3226,8,2018-10-01,"2018-10",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,0,4,3,NA,"Retired",NA
+"389_2",3113,8,2015-09-30,"2015-09",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,1,3,5,5,NA,NA
+"389_2",3191,8,2017-10-02,"2017-10",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,NA,NA,1,5,"Retired",NA
+"389_2",3202,8,2017-12-28,"2017-12",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,NA,5,4,NA,"Retired",1.8325
+"389_2",3226,8,2018-10-01,"2018-10",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,0,NA,3,NA,"Retired",NA
+"389_3",3113,8,2015-09-30,"2015-09",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,NA,NA,3,NA,"Retired",NA
+"389_3",3191,8,2017-10-02,"2017-10",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,0,5,2,NA,"Retired",NA
+"389_3",3202,8,2017-12-28,"2017-12",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,0,NA,2,NA,"Retired",1.8325
+"389_3",3226,8,2018-10-01,"2018-10",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,0,5,3,4,"Retired",NA
+"389_4",3113,8,2015-09-30,"2015-09",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,NA,NA,4,NA,"Retired",NA
+"389_4",3191,8,2017-10-02,"2017-10",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,NA,5,4,NA,"Retired",NA
+"389_4",3202,8,2017-12-28,"2017-12",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,1,3,5,6,NA,1.8325
+"389_4",3226,8,2018-10-01,"2018-10",2,"70-74","Import-oriented sectors","Import-oriented sectors",1,NA,5,1,5,"Retired",NA
+"390_1",3113,8,2015-09-30,"2015-09",1,"70-74","Import-oriented sectors","Import-oriented sectors",1,NA,5,3,NA,"Retired",NA
+"390_1",3191,17,2017-10-02,"2017-10",1,"70-74","Import-oriented sectors","Import-oriented sectors",1,NA,5,3,6,"Retired",NA
+"390_1",3202,8,2017-12-28,"2017-12",1,"70-74","Import-oriented sectors","Import-oriented sectors",1,0,5,3,6,"Retired",1.8325
+"390_1",3226,8,2018-10-01,"2018-10",1,"70-74","Import-oriented sectors","Import-oriented sectors",1,0,5,3,NA,"Retired",NA
+"4_1",3113,8,2015-09-30,"2015-09",1,"60-64","Non-tradable sectors",NA,4,1,3,4,5,"Retired",NA
+"4_1",3191,8,2017-10-02,"2017-10",1,"60-64","Non-tradable sectors",NA,4,1,2,5,NA,"Currently working",NA
+"4_1",3202,8,2017-12-28,"2017-12",1,"60-64","Non-tradable sectors",NA,4,0,8,1,NA,"Retired",1.8325
+"4_1",3226,8,2018-10-01,"2018-10",1,"60-64","Non-tradable sectors",NA,4,0,7,1,NA,"Retired",NA
+"41_1",3113,8,2015-09-30,"2015-09",2,"35-39","Non-tradable sectors",NA,2,0,5,3,7,"Unemployed",NA
+"41_1",3191,8,2017-10-02,"2017-10",2,"35-39","Non-tradable sectors",NA,2,0,3,3,NA,"Currently working",NA
+"41_1",3202,8,2017-12-28,"2017-12",2,"35-39","Non-tradable sectors",NA,2,NA,NA,1,7,"Unemployed",1.8325
+"41_1",3226,8,2018-10-01,"2018-10",2,"35-39","Non-tradable sectors",NA,2,NA,NA,3,1,NA,NA
+"42_1",3113,8,2015-09-30,"2015-09",1,"35-39","Non-tradable sectors",NA,2,1,4,3,2,"Unemployed",NA
+"42_1",3191,8,2017-10-02,"2017-10",1,"35-39","Non-tradable sectors",NA,2,NA,5,3,NA,"Retired",NA
+"42_1",3202,8,2017-12-28,"2017-12",1,"35-39","Non-tradable sectors",NA,2,0,5,3,9,"Currently working",1.8325
+"42_1",3226,8,2018-10-01,"2018-10",1,"35-39","Non-tradable sectors",NA,2,NA,NA,3,4,"Currently working",NA
+"42_2",3113,8,2015-09-30,"2015-09",1,"35-39","Non-tradable sectors",NA,2,0,5,1,1,"Unemployed",NA
+"42_2",3191,8,2017-10-02,"2017-10",1,"35-39","Non-tradable sectors",NA,2,0,4,3,NA,"Currently working",NA
+"42_2",3202,8,2017-12-28,"2017-12",1,"35-39","Non-tradable sectors",NA,2,0,3,3,3,"Unemployed",1.8325
+"42_2",3226,8,2018-10-01,"2018-10",1,"35-39","Non-tradable sectors",NA,2,NA,5,3,NA,"Unemployed",NA
+"43_1",3113,8,2015-09-30,"2015-09",2,"35-39","Non-tradable sectors",NA,4,1,5,4,7,"Currently working",NA
+"43_1",3191,8,2017-10-02,"2017-10",2,"35-39","Non-tradable sectors",NA,4,0,4,3,7,"Currently working",NA
+"43_1",3202,8,2017-12-28,"2017-12",2,"35-39","Non-tradable sectors",NA,4,1,1,4,NA,"Currently working",1.8325
+"43_1",3226,8,2018-10-01,"2018-10",2,"35-39","Non-tradable sectors",NA,4,0,5,3,5,"Unemployed",NA
+"43_2",3113,8,2015-09-30,"2015-09",2,"35-39","Non-tradable sectors",NA,4,0,NA,3,NA,"Unemployed",NA
+"43_2",3191,8,2017-10-02,"2017-10",2,"35-39","Non-tradable sectors",NA,4,0,2,NA,7,"Currently working",NA
+"43_2",3202,8,2017-12-28,"2017-12",2,"35-39","Non-tradable sectors",NA,4,0,3,3,3,"Unemployed",1.8325
+"43_2",3226,8,2018-10-01,"2018-10",2,"35-39","Non-tradable sectors",NA,4,0,NA,3,4,"Currently working",NA
+"43_3",3113,8,2015-09-30,"2015-09",2,"35-39","Non-tradable sectors",NA,4,1,4,5,NA,"Currently working",NA
+"43_3",3191,17,2017-10-02,"2017-10",2,"35-39","Non-tradable sectors",NA,4,1,1,4,NA,"Currently working",NA
+"43_3",3202,8,2017-12-28,"2017-12",2,"35-39","Non-tradable sectors",NA,4,1,2,4,9,"Currently working",1.8325
+"43_3",3226,8,2018-10-01,"2018-10",2,"35-39","Non-tradable sectors",NA,4,0,5,3,4,"Unemployed",NA
+"44_1",3113,8,2015-09-30,"2015-09",1,"35-39","Non-tradable sectors",NA,4,0,5,3,7,"Currently working",NA
+"44_1",3191,8,2017-10-02,"2017-10",1,"35-39","Non-tradable sectors",NA,4,0,4,3,4,"Unemployed",NA
+"44_1",3202,8,2017-12-28,"2017-12",1,"35-39","Non-tradable sectors",NA,4,0,1,3,9,"Currently working",1.8325
+"44_1",3226,8,2018-10-01,"2018-10",1,"35-39","Non-tradable sectors",NA,4,NA,5,3,NA,"Currently working",NA
+"44_2",3113,8,2015-09-30,"2015-09",1,"35-39","Non-tradable sectors",NA,4,0,5,3,3,"Currently working",NA
+"44_2",3191,8,2017-10-02,"2017-10",1,"35-39","Non-tradable sectors",NA,4,1,3,5,6,"Currently working",NA
+"44_2",3202,8,2017-12-28,"2017-12",1,"35-39","Non-tradable sectors",NA,4,0,4,2,NA,"Currently working",1.8325
+"44_2",3226,8,2018-10-01,"2018-10",1,"35-39","Non-tradable sectors",NA,4,0,NA,3,NA,"Currently working",NA
+"45_1",3113,8,2015-09-30,"2015-09",2,"35-39","Non-tradable sectors",NA,5,0,1,NA,7,"Currently working",NA
+"45_1",3191,8,2017-10-02,"2017-10",2,"35-39","Non-tradable sectors",NA,5,1,1,5,9,"Currently working",NA
+"45_1",3202,8,2017-12-28,"2017-12",2,"35-39","Non-tradable sectors",NA,5,1,2,4,1,"Unemployed",1.8325
+"45_1",3226,8,2018-10-01,"2018-10",2,"35-39","Non-tradable sectors",NA,5,1,3,5,7,"Currently working",NA
+"46_1",3113,8,2015-09-30,"2015-09",1,"35-39","Non-tradable sectors",NA,5,NA,2,4,NA,"Currently working",NA
+"46_1",3191,8,2017-10-02,"2017-10",1,"35-39","Non-tradable sectors",NA,5,1,3,5,6,"Currently working",NA
+"46_1",3202,8,2017-12-28,"2017-12",1,"35-39","Non-tradable sectors",NA,5,1,6,4,10,"Currently working",1.8325
+"46_1",3226,8,2018-10-01,"2018-10",1,"35-39","Non-tradable sectors",NA,5,0,5,3,NA,"Currently working",NA
+"46_2",3113,8,2015-09-30,"2015-09",1,"35-39","Non-tradable sectors",NA,5,1,1,5,NA,"Currently working",NA
+"46_2",3191,8,2017-10-02,"2017-10",1,"35-39","Non-tradable sectors",NA,5,0,5,2,6,"Currently working",NA
+"46_2",3202,8,2017-12-28,"2017-12",1,"35-39","Non-tradable sectors",NA,5,1,3,4,8,"Currently working",1.8325
+"46_2",3226,8,2018-10-01,"2018-10",1,"35-39","Non-tradable sectors",NA,5,NA,3,5,NA,"Currently working",NA
+"46_3",3113,8,2015-09-30,"2015-09",1,"35-39","Non-tradable sectors",NA,5,1,3,4,6,"Unemployed",NA
+"46_3",3191,17,2017-10-02,"2017-10",1,"35-39","Non-tradable sectors",NA,5,1,1,5,8,"Currently working",NA
+"46_3",3202,8,2017-12-28,"2017-12",1,"35-39","Non-tradable sectors",NA,5,1,3,5,9,"Currently working",1.8325
+"46_3",3226,43,2018-10-01,"2018-10",1,"35-39","Non-tradable sectors",NA,5,1,5,4,NA,"Currently working",NA
+"47_1",3113,8,2015-09-30,"2015-09",2,"35-39","Non-tradable sectors",NA,3,0,7,1,9,"Currently working",NA
+"47_1",3191,8,2017-10-02,"2017-10",2,"35-39","Non-tradable sectors",NA,3,NA,5,3,NA,"Currently working",NA
+"47_1",3202,8,2017-12-28,"2017-12",2,"35-39","Non-tradable sectors",NA,3,0,3,3,6,"Unemployed",1.8325
+"47_1",3226,8,2018-10-01,"2018-10",2,"35-39","Non-tradable sectors",NA,3,0,8,3,4,"Currently working",NA
+"47_2",3113,43,2015-09-30,"2015-09",2,"35-39","Non-tradable sectors",NA,3,1,2,5,NA,"Currently working",NA
+"47_2",3191,8,2017-10-02,"2017-10",2,"35-39","Non-tradable sectors",NA,3,NA,5,3,NA,"Currently working",NA
+"47_2",3202,8,2017-12-28,"2017-12",2,"35-39","Non-tradable sectors",NA,3,1,NA,3,3,"Unemployed",1.8325
+"47_2",3226,8,2018-10-01,"2018-10",2,"35-39","Non-tradable sectors",NA,3,NA,5,3,4,"Currently working",NA
+"48_1",3113,8,2015-09-30,"2015-09",1,"35-39","Non-tradable sectors",NA,3,0,8,2,NA,"Currently working",NA
+"48_1",3191,8,2017-10-02,"2017-10",1,"35-39","Non-tradable sectors",NA,3,0,5,3,6,"Unemployed",NA
+"48_1",3202,8,2017-12-28,"2017-12",1,"35-39","Non-tradable sectors",NA,3,1,2,4,NA,"Currently working",1.8325
+"48_1",3226,8,2018-10-01,"2018-10",1,"35-39","Non-tradable sectors",NA,3,0,5,3,NA,"Currently working",NA
+"49_1",3113,8,2015-09-30,"2015-09",2,"35-39","Non-tradable sectors",NA,1,0,2,2,4,"Unemployed",NA
+"49_1",3191,8,2017-10-02,"2017-10",2,"35-39","Non-tradable sectors",NA,1,NA,NA,1,3,"Unemployed",NA
+"49_1",3202,8,2017-12-28,"2017-12",2,"35-39","Non-tradable sectors",NA,1,0,NA,3,NA,"Currently working",1.8325
+"49_1",3226,17,2018-10-01,"2018-10",2,"35-39","Non-tradable sectors",NA,1,0,6,1,NA,"Currently working",NA
+"5_1",3113,8,2015-09-30,"2015-09",2,"60-64","Non-tradable sectors",NA,5,1,2,5,5,"Retired",NA
+"5_1",3191,8,2017-10-02,"2017-10",2,"60-64","Non-tradable sectors",NA,5,NA,2,3,8,"Retired",NA
+"5_1",3202,8,2017-12-28,"2017-12",2,"60-64","Non-tradable sectors",NA,5,0,2,3,11,"Retired",1.8325
+"5_1",3226,25,2018-10-01,"2018-10",2,"60-64","Non-tradable sectors",NA,5,1,2,4,6,"Retired",NA
+"51_1",3113,8,2015-09-30,"2015-09",2,"45-49","Non-tradable sectors",NA,2,1,NA,4,NA,"Retired",NA
+"51_1",3191,8,2017-10-02,"2017-10",2,"45-49","Non-tradable sectors",NA,2,NA,5,3,NA,"Currently working",NA
+"51_1",3202,8,2017-12-28,"2017-12",2,"45-49","Non-tradable sectors",NA,2,0,NA,3,7,"Unemployed",1.8325
+"51_1",3226,8,2018-10-01,"2018-10",2,"45-49","Non-tradable sectors",NA,2,0,NA,3,NA,"Currently working",NA
+"51_2",3113,17,2015-09-30,"2015-09",2,"45-49","Non-tradable sectors",NA,2,0,5,2,7,"Currently working",NA
+"51_2",3191,8,2017-10-02,"2017-10",2,"45-49","Non-tradable sectors",NA,2,0,NA,2,6,"Currently working",NA
+"51_2",3202,8,2017-12-28,"2017-12",2,"45-49","Non-tradable sectors",NA,2,1,4,4,NA,"Currently working",1.8325
+"51_2",3226,17,2018-10-01,"2018-10",2,"45-49","Non-tradable sectors",NA,2,0,3,4,NA,"Currently working",NA
+"51_3",3113,17,2015-09-30,"2015-09",2,"45-49","Non-tradable sectors",NA,2,0,NA,3,5,"Unemployed",NA
+"51_3",3191,8,2017-10-02,"2017-10",2,"45-49","Non-tradable sectors",NA,2,0,5,3,NA,"Currently working",NA
+"51_3",3202,8,2017-12-28,"2017-12",2,"45-49","Non-tradable sectors",NA,2,1,5,4,NA,"Currently working",1.8325
+"51_3",3226,43,2018-10-01,"2018-10",2,"45-49","Non-tradable sectors",NA,2,NA,NA,NA,3,"Unemployed",NA
+"52_1",3113,8,2015-09-30,"2015-09",1,"45-49","Non-tradable sectors",NA,2,1,4,4,5,"Unemployed",NA
+"52_1",3191,8,2017-10-02,"2017-10",1,"45-49","Non-tradable sectors",NA,2,0,3,3,7,"Currently working",NA
+"52_1",3202,8,2017-12-28,"2017-12",1,"45-49","Non-tradable sectors",NA,2,0,NA,4,7,"Currently working",1.8325
+"52_1",3226,8,2018-10-01,"2018-10",1,"45-49","Non-tradable sectors",NA,2,0,1,3,4,"Unemployed",NA
+"52_2",3113,8,2015-09-30,"2015-09",1,"45-49","Non-tradable sectors",NA,2,0,3,3,5,"Retired",NA
+"52_2",3191,8,2017-10-02,"2017-10",1,"45-49","Non-tradable sectors",NA,2,0,3,3,NA,"Currently working",NA
+"52_2",3202,8,2017-12-28,"2017-12",1,"45-49","Non-tradable sectors",NA,2,0,NA,3,8,"Retired",1.8325
+"52_2",3226,8,2018-10-01,"2018-10",1,"45-49","Non-tradable sectors",NA,2,1,3,3,NA,"Currently working",NA
+"53_1",3113,8,2015-09-30,"2015-09",2,"45-49","Non-tradable sectors",NA,4,NA,6,3,5,"Unemployed",NA
+"53_1",3191,8,2017-10-02,"2017-10",2,"45-49","Non-tradable sectors",NA,4,0,2,5,6,"Unemployed",NA
+"53_1",3202,8,2017-12-28,"2017-12",2,"45-49","Non-tradable sectors",NA,4,NA,NA,4,6,"Currently working",1.8325
+"53_1",3226,8,2018-10-01,"2018-10",2,"45-49","Non-tradable sectors",NA,4,0,1,4,NA,"Currently working",NA
+"53_2",3113,8,2015-09-30,"2015-09",2,"45-49","Non-tradable sectors",NA,4,1,7,1,5,"Currently working",NA
+"53_2",3191,25,2017-10-02,"2017-10",2,"45-49","Non-tradable sectors",NA,4,NA,5,4,7,"Unemployed",NA
+"53_2",3202,8,2017-12-28,"2017-12",2,"45-49","Non-tradable sectors",NA,4,1,2,4,7,"Unemployed",1.8325
+"53_2",3226,8,2018-10-01,"2018-10",2,"45-49","Non-tradable sectors",NA,4,NA,3,4,NA,"Currently working",NA
+"53_3",3113,8,2015-09-30,"2015-09",2,"45-49","Non-tradable sectors",NA,4,NA,NA,5,NA,"Unemployed",NA
+"53_3",3191,43,2017-10-02,"2017-10",2,"45-49","Non-tradable sectors",NA,4,0,3,3,NA,"Currently working",NA
+"53_3",3202,8,2017-12-28,"2017-12",2,"45-49","Non-tradable sectors",NA,4,0,5,3,5,"Currently working",1.8325
+"53_3",3226,8,2018-10-01,"2018-10",2,"45-49","Non-tradable sectors",NA,4,0,5,3,5,"Currently working",NA
+"54_1",3113,8,2015-09-30,"2015-09",1,"45-49","Non-tradable sectors",NA,4,1,4,5,7,"Currently working",NA
+"54_1",3191,8,2017-10-02,"2017-10",1,"45-49","Non-tradable sectors",NA,4,NA,5,3,NA,"Currently working",NA
+"54_1",3202,8,2017-12-28,"2017-12",1,"45-49","Non-tradable sectors",NA,4,NA,5,3,NA,"Currently working",1.8325
+"54_1",3226,8,2018-10-01,"2018-10",1,"45-49","Non-tradable sectors",NA,4,NA,5,4,3,"Retired",NA
+"54_2",3113,8,2015-09-30,"2015-09",1,"45-49","Non-tradable sectors",NA,4,NA,5,3,NA,"Currently working",NA
+"54_2",3191,25,2017-10-02,"2017-10",1,"45-49","Non-tradable sectors",NA,4,1,2,3,6,"Currently working",NA
+"54_2",3202,8,2017-12-28,"2017-12",1,"45-49","Non-tradable sectors",NA,4,NA,5,4,NA,"Currently working",1.8325
+"54_2",3226,25,2018-10-01,"2018-10",1,"45-49","Non-tradable sectors",NA,4,1,2,5,6,"Currently working",NA
+"55_1",3113,8,2015-09-30,"2015-09",2,"45-49","Non-tradable sectors",NA,5,1,5,4,NA,"Currently working",NA
+"55_1",3191,8,2017-10-02,"2017-10",2,"45-49","Non-tradable sectors",NA,5,0,3,5,7,"Currently working",NA
+"55_1",3202,8,2017-12-28,"2017-12",2,"45-49","Non-tradable sectors",NA,5,1,6,5,NA,"Currently working",1.8325
+"55_1",3226,8,2018-10-01,"2018-10",2,"45-49","Non-tradable sectors",NA,5,NA,2,5,6,"Currently working",NA
+"55_2",3113,8,2015-09-30,"2015-09",2,"45-49","Non-tradable sectors",NA,5,0,NA,3,NA,NA,NA
+"55_2",3191,8,2017-10-02,"2017-10",2,"45-49","Non-tradable sectors",NA,5,NA,7,3,NA,"Currently working",NA
+"55_2",3202,8,2017-12-28,"2017-12",2,"45-49","Non-tradable sectors",NA,5,1,5,4,NA,"Currently working",1.8325
+"55_2",3226,8,2018-10-01,"2018-10",2,"45-49","Non-tradable sectors",NA,5,1,4,5,NA,"Currently working",NA
+"56_1",3113,8,2015-09-30,"2015-09",1,"45-49","Non-tradable sectors",NA,5,NA,2,3,4,"Currently working",NA
+"56_1",3191,8,2017-10-02,"2017-10",1,"45-49","Non-tradable sectors",NA,5,0,3,4,5,"Unemployed",NA
+"56_1",3202,8,2017-12-28,"2017-12",1,"45-49","Non-tradable sectors",NA,5,1,1,5,6,"Currently working",1.8325
+"56_1",3226,8,2018-10-01,"2018-10",1,"45-49","Non-tradable sectors",NA,5,1,3,5,NA,"Currently working",NA
+"56_2",3113,8,2015-09-30,"2015-09",1,"45-49","Non-tradable sectors",NA,5,0,5,3,NA,"Currently working",NA
+"56_2",3191,8,2017-10-02,"2017-10",1,"45-49","Non-tradable sectors",NA,5,NA,2,NA,NA,"Retired",NA
+"56_2",3202,8,2017-12-28,"2017-12",1,"45-49","Non-tradable sectors",NA,5,0,4,1,10,"Currently working",1.8325
+"56_2",3226,8,2018-10-01,"2018-10",1,"45-49","Non-tradable sectors",NA,5,0,5,2,NA,"Currently working",NA
+"56_3",3113,8,2015-09-30,"2015-09",1,"45-49","Non-tradable sectors",NA,5,1,5,4,7,"Currently working",NA
+"56_3",3191,43,2017-10-02,"2017-10",1,"45-49","Non-tradable sectors",NA,5,1,6,5,9,"Currently working",NA
+"56_3",3202,8,2017-12-28,"2017-12",1,"45-49","Non-tradable sectors",NA,5,NA,2,5,8,"Currently working",1.8325
+"56_3",3226,8,2018-10-01,"2018-10",1,"45-49","Non-tradable sectors",NA,5,0,5,3,NA,"Retired",NA
+"58_1",3113,8,2015-09-30,"2015-09",1,"45-49","Non-tradable sectors",NA,3,0,5,3,7,"Currently working",NA
+"58_1",3191,8,2017-10-02,"2017-10",1,"45-49","Non-tradable sectors",NA,3,NA,5,3,7,"Currently working",NA
+"58_1",3202,8,2017-12-28,"2017-12",1,"45-49","Non-tradable sectors",NA,3,0,5,3,7,"Currently working",1.8325
+"58_1",3226,8,2018-10-01,"2018-10",1,"45-49","Non-tradable sectors",NA,3,NA,4,4,NA,"Currently working",NA
+"59_1",3113,8,2015-09-30,"2015-09",2,"45-49","Non-tradable sectors",NA,1,1,5,5,NA,"Currently working",NA
+"59_1",3191,8,2017-10-02,"2017-10",2,"45-49","Non-tradable sectors",NA,1,NA,NA,5,3,NA,NA
+"59_1",3202,17,2017-12-28,"2017-12",2,"45-49","Non-tradable sectors",NA,1,0,NA,2,3,"Unemployed",0.47976
+"59_1",3226,17,2018-10-01,"2018-10",2,"45-49","Non-tradable sectors",NA,1,0,4,1,5,"Currently working",NA
+"6_1",3113,8,2015-09-30,"2015-09",1,"60-64","Non-tradable sectors",NA,5,NA,1,3,7,"Retired",NA
+"6_1",3191,8,2017-10-02,"2017-10",1,"60-64","Non-tradable sectors",NA,5,1,4,4,7,"Currently working",NA
+"6_1",3202,8,2017-12-28,"2017-12",1,"60-64","Non-tradable sectors",NA,5,1,4,4,8,"Retired",1.8325
+"6_1",3226,8,2018-10-01,"2018-10",1,"60-64","Non-tradable sectors",NA,5,0,5,3,NA,"Retired",NA
+"6_2",3113,8,2015-09-30,"2015-09",1,"60-64","Non-tradable sectors",NA,5,0,3,3,8,"Retired",NA
+"6_2",3191,17,2017-10-02,"2017-10",1,"60-64","Non-tradable sectors",NA,5,1,2,5,NA,"Currently working",NA
+"6_2",3202,8,2017-12-28,"2017-12",1,"60-64","Non-tradable sectors",NA,5,0,2,4,9,"Currently working",1.8325
+"6_2",3226,8,2018-10-01,"2018-10",1,"60-64","Non-tradable sectors",NA,5,1,2,NA,NA,"Currently working",NA
+"6_3",3113,8,2015-09-30,"2015-09",1,"60-64","Non-tradable sectors",NA,5,1,6,5,NA,"Currently working",NA
+"6_3",3191,25,2017-10-02,"2017-10",1,"60-64","Non-tradable sectors",NA,5,0,1,5,3,"Currently working",NA
+"6_3",3202,8,2017-12-28,"2017-12",1,"60-64","Non-tradable sectors",NA,5,0,7,2,7,"Currently working",1.8325
+"6_3",3226,8,2018-10-01,"2018-10",1,"60-64","Non-tradable sectors",NA,5,0,4,3,9,"Currently working",NA
+"61_1",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,2,1,NA,3,5,NA,NA
+"61_1",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,2,0,7,3,NA,"Currently working",NA
+"61_1",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,2,NA,NA,3,NA,"Currently working",1.8325
+"61_1",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,2,0,NA,3,3,"Currently working",NA
+"61_2",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,2,NA,NA,1,NA,NA,NA
+"61_2",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,2,NA,NA,5,6,"Currently working",NA
+"61_2",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,2,0,NA,4,8,"Currently working",1.8325
+"61_2",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,2,NA,NA,4,3,"Currently working",NA
+"61_3",3113,17,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,2,1,5,3,NA,"Currently working",NA
+"61_3",3191,17,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,2,0,8,1,7,"Currently working",NA
+"61_3",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,2,1,3,4,8,"Currently working",1.8325
+"61_3",3226,17,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,2,0,5,1,NA,"Unemployed",NA
+"62_1",3113,8,2015-09-30,"2015-09",1,"18-24","Non-tradable sectors",NA,2,1,NA,4,7,"Unemployed",NA
+"62_1",3191,8,2017-10-02,"2017-10",1,"18-24","Non-tradable sectors",NA,2,NA,NA,3,NA,"Unemployed",NA
+"62_1",3202,8,2017-12-28,"2017-12",1,"18-24","Non-tradable sectors",NA,2,NA,5,4,NA,"Unemployed",1.8325
+"62_1",3226,8,2018-10-01,"2018-10",1,"18-24","Non-tradable sectors",NA,2,0,5,3,4,"Unemployed",NA
+"62_2",3113,8,2015-09-30,"2015-09",1,"18-24","Non-tradable sectors",NA,2,NA,4,3,NA,"Unemployed",NA
+"62_2",3191,25,2017-10-02,"2017-10",1,"18-24","Non-tradable sectors",NA,2,NA,2,4,NA,NA,NA
+"62_2",3202,8,2017-12-28,"2017-12",1,"18-24","Non-tradable sectors",NA,2,NA,5,3,NA,"Currently working",1.8325
+"62_2",3226,8,2018-10-01,"2018-10",1,"18-24","Non-tradable sectors",NA,2,0,5,1,2,"Unemployed",NA
+"62_3",3113,8,2015-09-30,"2015-09",1,"18-24","Non-tradable sectors",NA,2,0,7,3,NA,"Unemployed",NA
+"62_3",3191,43,2017-10-02,"2017-10",1,"18-24","Non-tradable sectors",NA,2,0,5,3,7,"Unemployed",NA
+"62_3",3202,8,2017-12-28,"2017-12",1,"18-24","Non-tradable sectors",NA,2,1,1,5,NA,"Currently working",1.8325
+"62_3",3226,8,2018-10-01,"2018-10",1,"18-24","Non-tradable sectors",NA,2,0,4,3,3,"Currently working",NA
+"63_1",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,4,NA,NA,NA,NA,"Currently working",NA
+"63_1",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,4,0,NA,1,6,"Currently working",NA
+"63_1",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,4,1,2,4,6,"Currently working",1.8325
+"63_1",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,4,NA,NA,3,1,NA,NA
+"63_2",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,4,NA,NA,1,NA,NA,NA
+"63_2",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,4,NA,NA,3,NA,"Currently working",NA
+"63_2",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,4,1,2,4,6,"Currently working",1.8325
+"63_2",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,4,0,6,3,2,"Currently working",NA
+"63_3",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,4,1,4,4,NA,NA,NA
+"63_3",3191,17,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,4,NA,5,3,NA,"Currently working",NA
+"63_3",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,4,1,4,4,NA,"Currently working",1.8325
+"63_3",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,4,1,3,5,1,NA,NA
+"63_4",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,4,NA,2,3,7,"Currently working",NA
+"63_4",3191,43,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,4,NA,NA,3,2,"Currently working",NA
+"63_4",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,4,1,2,5,NA,NA,1.8325
+"63_4",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,4,0,NA,3,4,"Currently working",NA
+"64_1",3113,8,2015-09-30,"2015-09",1,"18-24","Non-tradable sectors",NA,4,1,3,4,5,"Currently working",NA
+"64_1",3191,8,2017-10-02,"2017-10",1,"18-24","Non-tradable sectors",NA,4,NA,3,NA,NA,"Unemployed",NA
+"64_1",3202,8,2017-12-28,"2017-12",1,"18-24","Non-tradable sectors",NA,4,0,2,4,6,"Currently working",1.8325
+"64_1",3226,8,2018-10-01,"2018-10",1,"18-24","Non-tradable sectors",NA,4,0,5,NA,1,"Unemployed",NA
+"64_2",3113,8,2015-09-30,"2015-09",1,"18-24","Non-tradable sectors",NA,4,0,6,3,NA,"Currently working",NA
+"64_2",3191,8,2017-10-02,"2017-10",1,"18-24","Non-tradable sectors",NA,4,NA,6,3,6,"Currently working",NA
+"64_2",3202,8,2017-12-28,"2017-12",1,"18-24","Non-tradable sectors",NA,4,1,3,5,NA,"Unemployed",1.8325
+"64_2",3226,8,2018-10-01,"2018-10",1,"18-24","Non-tradable sectors",NA,4,NA,NA,3,4,"Currently working",NA
+"64_3",3113,8,2015-09-30,"2015-09",1,"18-24","Non-tradable sectors",NA,4,NA,NA,3,NA,NA,NA
+"64_3",3191,8,2017-10-02,"2017-10",1,"18-24","Non-tradable sectors",NA,4,0,8,2,NA,NA,NA
+"64_3",3202,8,2017-12-28,"2017-12",1,"18-24","Non-tradable sectors",NA,4,NA,NA,3,NA,"Unemployed",1.8325
+"64_3",3226,8,2018-10-01,"2018-10",1,"18-24","Non-tradable sectors",NA,4,0,4,3,2,NA,NA
+"65_1",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,5,1,NA,3,NA,"Currently working",NA
+"65_1",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,5,NA,3,5,7,"Currently working",NA
+"65_1",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,5,1,2,5,NA,"Currently working",1.8325
+"65_1",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,5,NA,2,NA,4,"Currently working",NA
+"65_2",3113,43,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,5,1,2,5,NA,NA,NA
+"65_2",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,5,1,3,5,NA,NA,NA
+"65_2",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,5,1,2,5,5,"Currently working",1.8325
+"65_2",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,5,0,5,3,NA,"Currently working",NA
+"66_1",3113,8,2015-09-30,"2015-09",1,"18-24","Non-tradable sectors",NA,5,0,3,3,8,NA,NA
+"66_1",3191,8,2017-10-02,"2017-10",1,"18-24","Non-tradable sectors",NA,5,0,5,2,3,"Unemployed",NA
+"66_1",3202,8,2017-12-28,"2017-12",1,"18-24","Non-tradable sectors",NA,5,0,6,1,NA,"Currently working",1.8325
+"66_1",3226,8,2018-10-01,"2018-10",1,"18-24","Non-tradable sectors",NA,5,0,2,4,5,"Currently working",NA
+"67_1",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,3,0,5,4,NA,"Currently working",NA
+"67_1",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,3,0,5,3,NA,NA,NA
+"67_1",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,3,1,2,4,NA,"Currently working",1.8325
+"67_1",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,3,1,1,NA,3,"Currently working",NA
+"67_2",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,3,1,2,4,9,NA,NA
+"67_2",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,3,1,3,5,NA,"Currently working",NA
+"67_2",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,3,1,3,5,NA,"Currently working",1.8325
+"67_2",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,3,0,NA,4,3,NA,NA
+"67_3",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,3,1,3,4,6,NA,NA
+"67_3",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,3,NA,5,3,NA,NA,NA
+"67_3",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,3,1,NA,5,NA,NA,1.8325
+"67_3",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,3,0,1,2,3,"Currently working",NA
+"67_4",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,3,0,5,3,NA,"Currently working",NA
+"67_4",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,3,0,2,4,6,NA,NA
+"67_4",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,3,1,2,4,NA,NA,1.8325
+"67_4",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,3,1,2,5,2,NA,NA
+"67_5",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,3,0,4,3,NA,NA,NA
+"67_5",3191,8,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,3,0,4,4,NA,NA,NA
+"67_5",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,3,0,5,3,5,"Currently working",1.8325
+"67_5",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,3,NA,4,1,1,NA,NA
+"67_6",3113,8,2015-09-30,"2015-09",2,"18-24","Non-tradable sectors",NA,3,1,NA,5,8,NA,NA
+"67_6",3191,25,2017-10-02,"2017-10",2,"18-24","Non-tradable sectors",NA,3,1,3,5,NA,NA,NA
+"67_6",3202,8,2017-12-28,"2017-12",2,"18-24","Non-tradable sectors",NA,3,1,2,5,8,NA,1.8325
+"67_6",3226,8,2018-10-01,"2018-10",2,"18-24","Non-tradable sectors",NA,3,0,2,4,1,"Unemployed",NA
+"68_1",3113,8,2015-09-30,"2015-09",1,"18-24","Non-tradable sectors",NA,3,0,2,3,NA,NA,NA
+"68_1",3191,8,2017-10-02,"2017-10",1,"18-24","Non-tradable sectors",NA,3,NA,8,3,7,NA,NA
+"68_1",3202,8,2017-12-28,"2017-12",1,"18-24","Non-tradable sectors",NA,3,0,6,2,NA,NA,1.8325
+"68_1",3226,8,2018-10-01,"2018-10",1,"18-24","Non-tradable sectors",NA,3,0,2,3,1,NA,NA
+"68_2",3113,8,2015-09-30,"2015-09",1,"18-24","Non-tradable sectors",NA,3,1,3,5,9,NA,NA
+"68_2",3191,8,2017-10-02,"2017-10",1,"18-24","Non-tradable sectors",NA,3,1,2,5,NA,"Currently working",NA
+"68_2",3202,8,2017-12-28,"2017-12",1,"18-24","Non-tradable sectors",NA,3,1,2,4,NA,NA,1.8325
+"68_2",3226,8,2018-10-01,"2018-10",1,"18-24","Non-tradable sectors",NA,3,0,1,5,1,NA,NA
+"7_1",3113,8,2015-09-30,"2015-09",2,"60-64","Non-tradable sectors",NA,3,1,2,4,6,"Unemployed",NA
+"7_1",3191,8,2017-10-02,"2017-10",2,"60-64","Non-tradable sectors",NA,3,0,4,3,NA,"Currently working",NA
+"7_1",3202,8,2017-12-28,"2017-12",2,"60-64","Non-tradable sectors",NA,3,0,4,4,7,NA,1.8325
+"7_1",3226,8,2018-10-01,"2018-10",2,"60-64","Non-tradable sectors",NA,3,0,3,3,2,"Unemployed",NA
+"7_2",3113,25,2015-09-30,"2015-09",2,"60-64","Non-tradable sectors",NA,3,1,1,4,NA,"Retired",NA
+"7_2",3191,8,2017-10-02,"2017-10",2,"60-64","Non-tradable sectors",NA,3,1,5,4,NA,"Retired",NA
+"7_2",3202,8,2017-12-28,"2017-12",2,"60-64","Non-tradable sectors",NA,3,NA,6,4,NA,"Retired",1.8325
+"7_2",3226,17,2018-10-01,"2018-10",2,"60-64","Non-tradable sectors",NA,3,1,4,4,6,"Retired",NA
+"71_1",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,2,1,1,5,NA,"Unemployed",NA
+"71_1",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,2,0,5,2,6,"Unemployed",NA
+"71_1",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,2,1,2,4,5,"Currently working",1.8325
+"71_1",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,2,1,3,5,NA,"Retired",NA
+"71_2",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,2,0,5,4,NA,"Unemployed",NA
+"71_2",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,2,NA,3,4,NA,"Currently working",NA
+"71_2",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,2,0,3,3,6,NA,1.8325
+"71_2",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,2,NA,4,3,NA,"Currently working",NA
+"72_1",3113,8,2015-09-30,"2015-09",1,"50-54","Non-tradable sectors",NA,2,1,3,3,6,"Currently working",NA
+"72_1",3191,8,2017-10-02,"2017-10",1,"50-54","Non-tradable sectors",NA,2,0,NA,3,6,"Retired",NA
+"72_1",3202,8,2017-12-28,"2017-12",1,"50-54","Non-tradable sectors",NA,2,0,NA,3,NA,"Retired",1.8325
+"72_1",3226,8,2018-10-01,"2018-10",1,"50-54","Non-tradable sectors",NA,2,0,8,1,NA,"Currently working",NA
+"72_2",3113,8,2015-09-30,"2015-09",1,"50-54","Non-tradable sectors",NA,2,0,NA,3,5,"Currently working",NA
+"72_2",3191,17,2017-10-02,"2017-10",1,"50-54","Non-tradable sectors",NA,2,NA,4,4,5,"Unemployed",NA
+"72_2",3202,8,2017-12-28,"2017-12",1,"50-54","Non-tradable sectors",NA,2,0,6,3,4,"Unemployed",1.8325
+"72_2",3226,8,2018-10-01,"2018-10",1,"50-54","Non-tradable sectors",NA,2,0,3,3,5,"Currently working",NA
+"73_1",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,4,1,4,3,NA,"Currently working",NA
+"73_1",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,4,0,NA,3,5,"Currently working",NA
+"73_1",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,4,0,3,4,NA,"Currently working",1.8325
+"73_1",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,4,NA,5,3,NA,"Currently working",NA
+"73_2",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,4,1,1,5,4,"Unemployed",NA
+"73_2",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,4,0,NA,3,5,"Currently working",NA
+"73_2",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,4,0,5,3,NA,"Currently working",1.8325
+"73_2",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,4,1,2,4,NA,"Currently working",NA
+"73_3",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,4,1,2,5,NA,"Retired",NA
+"73_3",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,4,0,2,4,NA,"Unemployed",NA
+"73_3",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,4,1,3,5,8,"Currently working",1.8325
+"73_3",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,4,NA,NA,3,1,NA,NA
+"73_4",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,4,0,4,3,6,"Unemployed",NA
+"73_4",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,4,0,7,3,6,"Currently working",NA
+"73_4",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,4,0,7,4,6,"Unemployed",1.8325
+"73_4",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,4,0,2,3,3,"Retired",NA
+"73_5",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,4,NA,5,3,NA,NA,NA
+"73_5",3191,17,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,4,NA,9,3,4,"Currently working",NA
+"73_5",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,4,0,7,3,NA,"Unemployed",1.8325
+"73_5",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,4,0,2,3,NA,"Currently working",NA
+"74_1",3113,8,2015-09-30,"2015-09",1,"50-54","Non-tradable sectors",NA,4,0,8,2,5,"Currently working",NA
+"74_1",3191,8,2017-10-02,"2017-10",1,"50-54","Non-tradable sectors",NA,4,0,4,3,5,"Currently working",NA
+"74_1",3202,8,2017-12-28,"2017-12",1,"50-54","Non-tradable sectors",NA,4,1,2,4,6,"Currently working",1.8325
+"74_1",3226,17,2018-10-01,"2018-10",1,"50-54","Non-tradable sectors",NA,4,1,2,5,6,"Currently working",NA
+"74_2",3113,8,2015-09-30,"2015-09",1,"50-54","Non-tradable sectors",NA,4,1,6,NA,10,"Currently working",NA
+"74_2",3191,8,2017-10-02,"2017-10",1,"50-54","Non-tradable sectors",NA,4,0,5,3,NA,"Currently working",NA
+"74_2",3202,8,2017-12-28,"2017-12",1,"50-54","Non-tradable sectors",NA,4,0,10,3,8,"Currently working",1.8325
+"74_2",3226,25,2018-10-01,"2018-10",1,"50-54","Non-tradable sectors",NA,4,1,3,4,6,"Currently working",NA
+"75_1",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,5,NA,3,4,NA,NA,NA
+"75_1",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,5,1,3,5,8,"Retired",NA
+"75_1",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,5,0,3,3,9,"Currently working",1.8325
+"75_1",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,5,NA,1,4,6,"Currently working",NA
+"75_2",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,5,NA,3,NA,NA,"Currently working",NA
+"75_2",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,5,0,3,3,NA,"Currently working",NA
+"75_2",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,5,0,1,3,6,"Currently working",1.8325
+"75_2",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,5,0,4,3,NA,"Currently working",NA
+"75_3",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,5,0,3,4,9,"Currently working",NA
+"75_3",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,5,0,7,3,NA,"Unemployed",NA
+"75_3",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,5,0,2,4,NA,"Currently working",1.8325
+"75_3",3226,17,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,5,1,4,5,7,"Currently working",NA
+"77_1",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,3,1,3,5,4,"Unemployed",NA
+"77_1",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,3,1,5,5,8,"Currently working",NA
+"77_1",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,3,0,5,3,7,"Currently working",1.8325
+"77_1",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,3,0,7,NA,5,"Currently working",NA
+"77_2",3113,8,2015-09-30,"2015-09",2,"50-54","Non-tradable sectors",NA,3,0,5,3,6,"Currently working",NA
+"77_2",3191,8,2017-10-02,"2017-10",2,"50-54","Non-tradable sectors",NA,3,0,4,3,NA,"Unemployed",NA
+"77_2",3202,8,2017-12-28,"2017-12",2,"50-54","Non-tradable sectors",NA,3,0,3,3,9,"Currently working",1.8325
+"77_2",3226,8,2018-10-01,"2018-10",2,"50-54","Non-tradable sectors",NA,3,0,4,1,NA,"Currently working",NA
+"78_1",3113,8,2015-09-30,"2015-09",1,"50-54","Non-tradable sectors",NA,3,1,2,4,5,"Currently working",NA
+"78_1",3191,17,2017-10-02,"2017-10",1,"50-54","Non-tradable sectors",NA,3,0,5,4,5,"Currently working",NA
+"78_1",3202,8,2017-12-28,"2017-12",1,"50-54","Non-tradable sectors",NA,3,1,1,5,6,"Currently working",1.8325
+"78_1",3226,8,2018-10-01,"2018-10",1,"50-54","Non-tradable sectors",NA,3,0,5,NA,NA,"Currently working",NA
+"78_2",3113,8,2015-09-30,"2015-09",1,"50-54","Non-tradable sectors",NA,3,0,3,4,NA,"Currently working",NA
+"78_2",3191,25,2017-10-02,"2017-10",1,"50-54","Non-tradable sectors",NA,3,0,1,4,4,"Currently working",NA
+"78_2",3202,8,2017-12-28,"2017-12",1,"50-54","Non-tradable sectors",NA,3,NA,8,1,5,"Currently working",1.8325
+"78_2",3226,8,2018-10-01,"2018-10",1,"50-54","Non-tradable sectors",NA,3,0,3,4,3,"Unemployed",NA
+"8_1",3113,8,2015-09-30,"2015-09",1,"60-64","Non-tradable sectors",NA,3,0,7,3,5,"Retired",NA
+"8_1",3191,8,2017-10-02,"2017-10",1,"60-64","Non-tradable sectors",NA,3,NA,5,4,NA,"Currently working",NA
+"8_1",3202,8,2017-12-28,"2017-12",1,"60-64","Non-tradable sectors",NA,3,0,5,3,NA,"Currently working",1.8325
+"8_1",3226,8,2018-10-01,"2018-10",1,"60-64","Non-tradable sectors",NA,3,1,3,5,NA,"Currently working",NA
+"8_2",3113,8,2015-09-30,"2015-09",1,"60-64","Non-tradable sectors",NA,3,0,4,3,7,"Unemployed",NA
+"8_2",3191,8,2017-10-02,"2017-10",1,"60-64","Non-tradable sectors",NA,3,0,1,4,9,"Retired",NA
+"8_2",3202,8,2017-12-28,"2017-12",1,"60-64","Non-tradable sectors",NA,3,0,6,4,8,"Currently working",1.8325
+"8_2",3226,8,2018-10-01,"2018-10",1,"60-64","Non-tradable sectors",NA,3,1,3,5,NA,"Retired",NA
+"8_3",3113,25,2015-09-30,"2015-09",1,"60-64","Non-tradable sectors",NA,3,1,2,4,5,"Unemployed",NA
+"8_3",3191,43,2017-10-02,"2017-10",1,"60-64","Non-tradable sectors",NA,3,0,2,4,9,"Currently working",NA
+"8_3",3202,8,2017-12-28,"2017-12",1,"60-64","Non-tradable sectors",NA,3,NA,NA,1,6,"Retired",1.8325
+"8_3",3226,8,2018-10-01,"2018-10",1,"60-64","Non-tradable sectors",NA,3,1,2,5,5,"Unemployed",NA
+"81_1",3113,8,2015-09-30,"2015-09",2,"55-59","Non-tradable sectors",NA,2,0,1,3,7,"Currently working",NA
+"81_1",3191,8,2017-10-02,"2017-10",2,"55-59","Non-tradable sectors",NA,2,1,3,4,NA,"Unemployed",NA
+"81_1",3202,8,2017-12-28,"2017-12",2,"55-59","Non-tradable sectors",NA,2,0,7,3,NA,"Currently working",1.8325
+"81_1",3226,8,2018-10-01,"2018-10",2,"55-59","Non-tradable sectors",NA,2,0,5,1,1,"Unemployed",NA
+"81_2",3113,8,2015-09-30,"2015-09",2,"55-59","Non-tradable sectors",NA,2,0,5,3,NA,"Retired",NA
+"81_2",3191,8,2017-10-02,"2017-10",2,"55-59","Non-tradable sectors",NA,2,0,3,5,6,"Currently working",NA
+"81_2",3202,8,2017-12-28,"2017-12",2,"55-59","Non-tradable sectors",NA,2,NA,NA,3,NA,"Currently working",1.8325
+"81_2",3226,17,2018-10-01,"2018-10",2,"55-59","Non-tradable sectors",NA,2,1,2,4,5,"Currently working",NA
+"81_3",3113,8,2015-09-30,"2015-09",2,"55-59","Non-tradable sectors",NA,2,NA,5,3,6,"Currently working",NA
+"81_3",3191,17,2017-10-02,"2017-10",2,"55-59","Non-tradable sectors",NA,2,0,1,3,4,"Currently working",NA
+"81_3",3202,8,2017-12-28,"2017-12",2,"55-59","Non-tradable sectors",NA,2,0,5,4,6,"Currently working",1.8325
+"81_3",3226,43,2018-10-01,"2018-10",2,"55-59","Non-tradable sectors",NA,2,0,NA,3,3,"Unemployed",NA
+"82_1",3113,8,2015-09-30,"2015-09",1,"55-59","Non-tradable sectors",NA,2,1,1,4,5,"Currently working",NA
+"82_1",3191,17,2017-10-02,"2017-10",1,"55-59","Non-tradable sectors",NA,2,NA,NA,5,NA,"Currently working",NA
+"82_1",3202,8,2017-12-28,"2017-12",1,"55-59","Non-tradable sectors",NA,2,1,3,3,5,"Unemployed",1.8325
+"82_1",3226,8,2018-10-01,"2018-10",1,"55-59","Non-tradable sectors",NA,2,0,6,3,3,"Unemployed",NA
+"83_1",3113,8,2015-09-30,"2015-09",2,"55-59","Non-tradable sectors",NA,4,1,1,4,5,"Currently working",NA
+"83_1",3191,8,2017-10-02,"2017-10",2,"55-59","Non-tradable sectors",NA,4,0,2,3,6,"Unemployed",NA
+"83_1",3202,8,2017-12-28,"2017-12",2,"55-59","Non-tradable sectors",NA,4,0,3,NA,7,"Unemployed",1.8325
+"83_1",3226,8,2018-10-01,"2018-10",2,"55-59","Non-tradable sectors",NA,4,0,NA,3,NA,"Currently working",NA
+"84_1",3113,8,2015-09-30,"2015-09",1,"55-59","Non-tradable sectors",NA,4,0,5,3,6,"Currently working",NA
+"84_1",3191,8,2017-10-02,"2017-10",1,"55-59","Non-tradable sectors",NA,4,NA,NA,2,4,"Retired",NA
+"84_1",3202,8,2017-12-28,"2017-12",1,"55-59","Non-tradable sectors",NA,4,0,1,3,NA,"Currently working",1.8325
+"84_1",3226,8,2018-10-01,"2018-10",1,"55-59","Non-tradable sectors",NA,4,0,2,3,NA,"Currently working",NA
+"84_2",3113,43,2015-09-30,"2015-09",1,"55-59","Non-tradable sectors",NA,4,1,3,4,7,"Retired",NA
+"84_2",3191,8,2017-10-02,"2017-10",1,"55-59","Non-tradable sectors",NA,4,0,5,1,7,"Currently working",NA
+"84_2",3202,8,2017-12-28,"2017-12",1,"55-59","Non-tradable sectors",NA,4,1,3,5,8,"Currently working",1.8325
+"84_2",3226,8,2018-10-01,"2018-10",1,"55-59","Non-tradable sectors",NA,4,0,4,3,NA,"Currently working",NA
+"85_1",3113,8,2015-09-30,"2015-09",2,"55-59","Non-tradable sectors",NA,5,0,2,3,8,"Currently working",NA
+"85_1",3191,8,2017-10-02,"2017-10",2,"55-59","Non-tradable sectors",NA,5,0,6,1,11,"Currently working",NA
+"85_1",3202,8,2017-12-28,"2017-12",2,"55-59","Non-tradable sectors",NA,5,1,4,4,NA,"Currently working",1.8325
+"85_1",3226,8,2018-10-01,"2018-10",2,"55-59","Non-tradable sectors",NA,5,1,5,4,7,"Currently working",NA
+"85_2",3113,8,2015-09-30,"2015-09",2,"55-59","Non-tradable sectors",NA,5,0,2,NA,9,"Currently working",NA
+"85_2",3191,8,2017-10-02,"2017-10",2,"55-59","Non-tradable sectors",NA,5,NA,3,5,10,"Currently working",NA
+"85_2",3202,8,2017-12-28,"2017-12",2,"55-59","Non-tradable sectors",NA,5,0,4,3,NA,"Currently working",1.8325
+"85_2",3226,8,2018-10-01,"2018-10",2,"55-59","Non-tradable sectors",NA,5,NA,3,5,NA,"Currently working",NA
+"85_3",3113,8,2015-09-30,"2015-09",2,"55-59","Non-tradable sectors",NA,5,1,3,5,9,"Retired",NA
+"85_3",3191,8,2017-10-02,"2017-10",2,"55-59","Non-tradable sectors",NA,5,NA,NA,NA,9,"Currently working",NA
+"85_3",3202,8,2017-12-28,"2017-12",2,"55-59","Non-tradable sectors",NA,5,NA,4,3,7,"Currently working",1.8325
+"85_3",3226,8,2018-10-01,"2018-10",2,"55-59","Non-tradable sectors",NA,5,NA,5,4,8,"Currently working",NA
+"86_1",3113,8,2015-09-30,"2015-09",1,"55-59","Non-tradable sectors",NA,5,1,5,5,8,"Currently working",NA
+"86_1",3191,8,2017-10-02,"2017-10",1,"55-59","Non-tradable sectors",NA,5,NA,5,3,NA,"Currently working",NA
+"86_1",3202,8,2017-12-28,"2017-12",1,"55-59","Non-tradable sectors",NA,5,1,2,5,NA,"Currently working",1.8325
+"86_1",3226,8,2018-10-01,"2018-10",1,"55-59","Non-tradable sectors",NA,5,0,3,4,4,"Unemployed",NA
+"87_1",3113,8,2015-09-30,"2015-09",2,"55-59","Non-tradable sectors",NA,3,1,4,5,8,NA,NA
+"87_1",3191,8,2017-10-02,"2017-10",2,"55-59","Non-tradable sectors",NA,3,NA,NA,1,6,"Currently working",NA
+"87_1",3202,8,2017-12-28,"2017-12",2,"55-59","Non-tradable sectors",NA,3,0,NA,3,7,"Unemployed",1.8325
+"87_1",3226,8,2018-10-01,"2018-10",2,"55-59","Non-tradable sectors",NA,3,0,3,4,6,"Currently working",NA
+"89_1",3113,8,2015-09-30,"2015-09",2,"55-59","Non-tradable sectors",NA,1,0,5,3,6,"Currently working",NA
+"89_1",3191,8,2017-10-02,"2017-10",2,"55-59","Non-tradable sectors",NA,1,0,7,3,NA,"Retired",NA
+"89_1",3202,8,2017-12-28,"2017-12",2,"55-59","Non-tradable sectors",NA,1,0,2,2,3,"Unemployed",1.8325
+"89_1",3226,8,2018-10-01,"2018-10",2,"55-59","Non-tradable sectors",NA,1,1,3,4,2,"Unemployed",NA
+"9_1",3113,8,2015-09-30,"2015-09",2,"60-64","Non-tradable sectors",NA,1,NA,NA,3,NA,"Retired",NA
+"9_1",3191,8,2017-10-02,"2017-10",2,"60-64","Non-tradable sectors",NA,1,NA,NA,3,NA,NA,NA
+"9_1",3202,8,2017-12-28,"2017-12",2,"60-64","Non-tradable sectors",NA,1,0,4,3,5,"Unemployed",1.8325
+"9_1",3226,8,2018-10-01,"2018-10",2,"60-64","Non-tradable sectors",NA,1,0,3,3,NA,"Currently working",NA
+"9_2",3113,8,2015-09-30,"2015-09",2,"60-64","Non-tradable sectors",NA,1,NA,NA,3,NA,"Currently working",NA
+"9_2",3191,8,2017-10-02,"2017-10",2,"60-64","Non-tradable sectors",NA,1,0,3,4,5,NA,NA
+"9_2",3202,8,2017-12-28,"2017-12",2,"60-64","Non-tradable sectors",NA,1,0,4,4,7,"Currently working",1.8325
+"9_2",3226,8,2018-10-01,"2018-10",2,"60-64","Non-tradable sectors",NA,1,0,1,4,NA,"Retired",NA
+"9_3",3113,8,2015-09-30,"2015-09",2,"60-64","Non-tradable sectors",NA,1,0,8,1,5,NA,NA
+"9_3",3191,25,2017-10-02,"2017-10",2,"60-64","Non-tradable sectors",NA,1,NA,3,2,NA,"Currently working",NA
+"9_3",3202,8,2017-12-28,"2017-12",2,"60-64","Non-tradable sectors",NA,1,0,7,2,5,NA,1.8325
+"9_3",3226,8,2018-10-01,"2018-10",2,"60-64","Non-tradable sectors",NA,1,0,2,3,NA,"Retired",NA
+"94_1",3113,8,2015-09-30,"2015-09",1,"80+","Non-tradable sectors",NA,4,0,6,1,5,"Retired",NA
+"94_1",3191,8,2017-10-02,"2017-10",1,"80+","Non-tradable sectors",NA,4,NA,NA,3,NA,"Retired",NA
+"94_1",3202,8,2017-12-28,"2017-12",1,"80+","Non-tradable sectors",NA,4,NA,NA,3,NA,"Retired",1.8325
+"94_1",3226,8,2018-10-01,"2018-10",1,"80+","Non-tradable sectors",NA,4,1,1,4,4,"Retired",NA
+"99_1",3113,8,2015-09-30,"2015-09",2,"80+","Non-tradable sectors",NA,1,1,5,5,3,"Retired",NA
+"99_1",3191,8,2017-10-02,"2017-10",2,"80+","Non-tradable sectors",NA,1,1,1,5,NA,"Retired",NA
+"99_1",3202,8,2017-12-28,"2017-12",2,"80+","Non-tradable sectors",NA,1,0,4,3,4,"Retired",1.8325
+"99_1",3226,8,2018-10-01,"2018-10",2,"80+","Non-tradable sectors",NA,1,1,4,5,5,"Retired",NA
+"99_2",3113,8,2015-09-30,"2015-09",2,"80+","Non-tradable sectors",NA,1,NA,NA,3,4,"Retired",NA
+"99_2",3191,8,2017-10-02,"2017-10",2,"80+","Non-tradable sectors",NA,1,0,NA,3,NA,"Retired",NA
+"99_2",3202,8,2017-12-28,"2017-12",2,"80+","Non-tradable sectors",NA,1,1,3,5,5,"Retired",1.8325
+"99_2",3226,8,2018-10-01,"2018-10",2,"80+","Non-tradable sectors",NA,1,0,NA,3,3,"Retired",NA
+"99_3",3113,8,2015-09-30,"2015-09",2,"80+","Non-tradable sectors",NA,1,1,NA,5,4,"Retired",NA
+"99_3",3191,8,2017-10-02,"2017-10",2,"80+","Non-tradable sectors",NA,1,0,3,4,5,"Retired",NA
+"99_3",3202,8,2017-12-28,"2017-12",2,"80+","Non-tradable sectors",NA,1,NA,NA,3,5,"Retired",1.8325
+"99_3",3226,8,2018-10-01,"2018-10",2,"80+","Non-tradable sectors",NA,1,0,6,3,1,NA,NA
+"99_4",3113,8,2015-09-30,"2015-09",2,"80+","Non-tradable sectors",NA,1,NA,8,1,NA,"Retired",NA
+"99_4",3191,25,2017-10-02,"2017-10",2,"80+","Non-tradable sectors",NA,1,0,10,1,5,"Retired",NA
+"99_4",3202,8,2017-12-28,"2017-12",2,"80+","Non-tradable sectors",NA,1,NA,8,2,4,"Retired",1.8325
+"99_4",3226,8,2018-10-01,"2018-10",2,"80+","Non-tradable sectors",NA,1,NA,5,4,NA,"Retired",NA
